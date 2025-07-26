@@ -1,0 +1,6824 @@
+city,count
+Unknown,48
+London,9
+Columbus,8
+Georgetown,7
+San Jose,7
+Jacksonville,6
+Alexandria,6
+Moscow,6
+Santiago,6
+Houston,6
+Greenville,6
+Richmond,5
+San Antonio,5
+Hamilton,5
+Vancouver,5
+Victoria,5
+Rome,5
+Athens,5
+Izmir,5
+Burlington,5
+Atlanta,5
+Glasgow,5
+Santo Domingo,4
+Chicago,4
+Santa Ana,4
+Warsaw,4
+Madrid,4
+Paris,4
+Jackson,4
+Sacramento,4
+Ankara,4
+Toronto,4
+Newcastle,4
+Rochester,4
+Anchorage,4
+New York,4
+Santa Rosa,4
+Rio De Janeiro,4
+Stockholm,4
+St. Petersburg,4
+Oxford,4
+Johannesburg,4
+Melbourne,4
+Santa Barbara,4
+Perth,4
+Tucson,4
+Panama City,4
+Macon,4
+Las Vegas,4
+Cairo,3
+Sydney,3
+Abu Dhabi,3
+Tak,3
+Douglas,3
+Portland,3
+Venice,3
+Helsinki,3
+Sevilla,3
+Nairobi,3
+Wichita,3
+Bangalore,3
+Columbia,3
+Philadelphia,3
+San Carlos,3
+Teheran,3
+Singapore,3
+Augusta,3
+Sao Paulo,3
+Oran,3
+Ottawa,3
+Albany,3
+San Luis,3
+Tampa,3
+Caracas,3
+Spokane,3
+Akron,3
+Wilmington,3
+Charleston,3
+Dallas,3
+Karachi,3
+San Diego,3
+Kingston,3
+New Orleans,3
+Los Angeles,3
+El Dorado,3
+Toulouse,3
+Shreveport,3
+Washington,3
+Osaka,3
+Denver,3
+Mobile,3
+Oklahoma City,3
+Riverside,3
+Beijing,3
+Santa Cruz,3
+Berlin,3
+Detroit,3
+Istanbul,3
+Aberdeen,3
+Orlando,3
+Hyderabad,3
+Dayton,3
+Tokyo,3
+Montreal,3
+Buenos Aires,3
+Jakarta,3
+Palm Springs,3
+Cleveland,3
+Itaituba,3
+Key West,3
+Miami,3
+Phoenix,3
+Novosibirsk,3
+Huntsville,3
+Springfield,3
+Arkhangelsk,3
+Brunswick,3
+Null,3
+Jasper,3
+Kiev,3
+Pensacola,2
+Palermo,2
+Stephenville,2
+Kamloops,2
+Waterloo,2
+La Paz,2
+Belfast,2
+Riyadh,2
+Kazan,2
+Birmingham,2
+Merida,2
+Salem,2
+Ufa,2
+Lima,2
+Samara,2
+Milano,2
+Manchester,2
+Kansas City,2
+Nogales,2
+Brisbane,2
+Natal,2
+Amberley,2
+Madison,2
+Dillingham,2
+Bangkok,2
+Peterborough,2
+Bristol,2
+Liverpool,2
+Plymouth,2
+Fort Lauderdale,2
+Treviso,2
+Longview,2
+Kenora,2
+Cordoba,2
+Nakhon Sawan,2
+Barcelona,2
+Phetchabun,2
+Tuxtla Gutierrez,2
+Granada,2
+Fairbanks,2
+Montevideo,2
+Manzini,2
+Murcia,2
+Seoul,2
+Barrow Island,2
+Leeds,2
+Fort Smith,2
+Ocana,2
+Pittsburgh,2
+Trenton,2
+Rota,2
+Oriximina,2
+San Sebastian,2
+Gainesville,2
+Valencia,2
+Edinburgh,2
+Yaounde,2
+Vitoria,2
+Esfahan,2
+Naples,2
+Memphis,2
+Florence,2
+Maracaibo,2
+Moroni,2
+Manzanillo,2
+Hobart,2
+Nakhon Si Thammarat,2
+St.-pierre,2
+Leon,2
+Calgary,2
+Topeka,2
+Adelaide,2
+Bandar Abbas,2
+Charlottetown,2
+Colombo,2
+Waco,2
+Midland,2
+La Rochelle,2
+Valdosta,2
+Guapiles,2
+Nakhon Ratchasima,2
+Romblon,2
+Port Hardy,2
+Roi Et,2
+Tel-aviv,2
+Greenwood,2
+Faro,2
+Hanoi,2
+Seattle,2
+Mount Pleasant,2
+Santa Clara,2
+Del Rio,2
+San Salvador,2
+Stratford,2
+Camden,2
+Baracoa Playa,2
+Peru,2
+Bagan,2
+Amman,2
+Cincinnati,2
+Lompoc,2
+Guantanamo,2
+Dublin,2
+Colmar,2
+Kuwait,2
+Concordia,2
+Verdun,2
+Aarhus,2
+Copenhagen,2
+Milwaukee,2
+Santa Lucia,2
+Indianapolis,2
+Santa Fe,2
+Lafayette,2
+Dubai,2
+Metz,2
+Flores,2
+San Fernando,2
+Kavala,2
+Ajaccio,2
+Fort Worth,2
+Halifax,2
+Pemba,2
+Fayetteville,2
+Linden,2
+Chambery,2
+Hampton,2
+Minot,2
+Abilene,2
+Montgomery,2
+Lyon,2
+Fort Myers,2
+Lanzhou,2
+Tonopah,2
+Omsk,2
+West Palm Beach,2
+Wellington,2
+Lahore,2
+Marysville,2
+Harare,2
+Oslo,2
+Bloemfontein,2
+Carlsbad,2
+San Julian,2
+Cold Bay,2
+Monroe,2
+Bucharest,2
+San Juan,2
+Louisville,2
+Nassau,2
+Manaus,2
+Orange,2
+Salinas,2
+Cockburn Town,2
+Basse Terre,2
+Maseru,2
+Kinshasa,2
+Ontario,2
+Tacoma,2
+Oranjestad,2
+Shanghai,2
+Dhaka,2
+Trujillo,2
+Philipsburg,2
+Hong Kong,2
+Katowice,2
+Austin,2
+Poznan,2
+Durban,2
+Szczecin,2
+Winnipeg,2
+Beaufort,2
+Knoxville,2
+Rhodos,2
+Linkoeping,2
+Norrkoeping,2
+Clovis,2
+Orleans,2
+Foz Do Iguacu,2
+Gothenborg,2
+Norfolk,2
+Beaumont,2
+Doha,2
+Meridian,2
+Baltimore,2
+Ogden,2
+Andersen,2
+Kabul,2
+Monterrey,2
+Adana,2
+Nanaimo,2
+Kanpur,2
+Reims,2
+Delhi,2
+Kwajalein,2
+Grand Forks,2
+Malatya,2
+Crestview,2
+Fort Wainwright,2
+Tenerife,2
+Tripoli,2
+Freetown,2
+Merced,2
+Monrovia,2
+Bahrain,2
+Yakutsk,2
+Hillsboro,2
+Fes,2
+Trinidad,2
+Hamburg,2
+Tulsa,2
+Pingtung,2
+Brest,2
+Khabarovsk,2
+Molokai,2
+Isparta,2
+Kutahya,2
+Princeton,2
+Magadan,2
+Watertown,2
+Rapid City,2
+Bodrum,2
+Noumea,2
+Deer Lake,2
+Taichung,2
+Alamogordo,2
+St. Louis,2
+Salt Lake City,2
+Budapest,2
+Ardmore,2
+Mountain Home,2
+Taipei,2
+Essen,2
+Corpus Christi,2
+Nashville,2
+Yekaterinburg,2
+Ladysmith,2
+Edmonton,2
+Araracuara,2
+Celle,2
+Middelburg,2
+Nancy,2
+Bedford,2
+Hiroshima,2
+Belem,2
+Sapporo,2
+Boa Vista,2
+Padang,2
+Belo Horizonte,2
+Curitiba,2
+Addis Ababa,2
+Medan,2
+Kuala Lumpur,2
+Bauru,2
+Murmansk,2
+Harrisburg,2
+Eureka,2
+Samana,2
+Lincoln,2
+Makale,2
+Lansing,2
+Minsk,2
+El Paso,2
+Porto Alegre,2
+Durango,2
+Nagoya,2
+Lewiston,2
+Kaunas,2
+Yerevan,2
+Albuquerque,2
+Kochi,2
+Bloomington,2
+Toledo,2
+Decatur,2
+El Calafate,2
+Lusaka,2
+Sihanoukville,2
+Windhoek,2
+Jeddah,2
+Shenyang,2
+Petersburg,2
+Scranton,2
+Geraldton,2
+Bentonville,2
+Campinas,2
+Krasnoyarsk,2
+Uummannaq,2
+Lutselk'e,2
+Bathurst,2
+Tashkent,2
+Jamestown,2
+Lancaster,2
+Portsmouth,2
+Santa Maria,2
+Sanliurfa,2
+Nicoya,2
+Futuna Island,2
+Matsu Islands,2
+Komsomolsk-on-Amur,2
+Petrozavodsk,2
+Ulyanovsk,2
+Argyle,2
+Laverton,2
+Huangshan,2
+Kostroma,2
+Concord,2
+Mesa,2
+Sinop,2
+Hamadan,2
+Kilimanjaro,2
+Naypyidaw,2
+Ely,2
+Cuxhaven,2
+Sidney,2
+Marathon,2
+Marshall,2
+Toowoomba,2
+Klawock,2
+Tok,2
+Derby,2
+Morristown,2
+Arlington,2
+Olathe,2
+Uvalde,2
+McKinley Park,2
+Flagler,2
+Marshfield,2
+Lawrence,2
+Omaha,2
+Frankfort,2
+Clinton,2
+Clarksville,2
+Yuzhno-Kurilsk,2
+Leesburg,2
+Zhytomyr,2
+Hayward,2
+Cochrane,2
+Danville,2
+Perry,2
+Zunyi,2
+Elkhart,2
+Rio de Janeiro,2
+Troy,2
+Lexington,2
+Port Angeles,2
+Sovetskaya Gavan,2
+Severomorsk,2
+Aappilattoq,2
+Tasiusaq,2
+Pickle Lake,1
+Port Menier,1
+Prince Pupert,1
+Fort Chipewyan,1
+Muskoka,1
+Quebec,1
+Red Deer Industrial,1
+Windsor,1
+Watson Lake,1
+Lethbridge,1
+Moncton,1
+Comox,1
+Regina,1
+Thunder Bay,1
+Grande Prairie,1
+Yorkton,1
+North Battleford,1
+Gander,1
+Quesnel,1
+Resolute,1
+Riviere Du Loup,1
+Roberval,1
+Rocky Mountain House,1
+Rankin Inlet,1
+Sudbury,1
+Sherbrooke,1
+St. John,1
+Nanisivik,1
+Summerside,1
+Sachs Harbour,1
+Cape Dorset,1
+Thompson,1
+Timmins,1
+Tuktoyaktuk,1
+Repulse Bay,1
+Hall Beach,1
+Rouyn,1
+La Ronge,1
+Vermillion,1
+Broughton Island,1
+Val D'or,1
+Quujjuaq,1
+Norman Wells,1
+Buffalo Narrows,1
+Wiarton,1
+Petawawa,1
+Wabush,1
+Williams Lake,1
+Wrigley,1
+Cranbrook,1
+Saskatoon,1
+Medicine Hat,1
+Fort Saint John,1
+Sioux Lookout,1
+Pangnirtung,1
+Earlton,1
+Prince George,1
+Terrace,1
+Abbotsford,1
+Whitehorse,1
+North Bay,1
+Smithers,1
+Fort Nelson,1
+Penticton,1
+Spence Bay,1
+Lynn Lake,1
+Swift Current,1
+Churchill,1
+Goose Bay,1
+St. John's,1
+Kapuskasing,1
+Armstrong,1
+Mont Joli,1
+Gore Bay,1
+Yellowknife,1
+Slave Lake,1
+Sandspit,1
+Sarnia,1
+Whitecourt,1
+Sept-iles,1
+Teslin,1
+Fort Mcpherson,1
+Blida,1
+Bou Saada,1
+Bejaja,1
+Algier,1
+Djanet,1
+Boufarik,1
+Reggan,1
+Illizi,1
+Ain Oussera,1
+Tamanrasset,1
+Jijel,1
+Mecheria,1
+Relizane,1
+Annaba,1
+Constantine,1
+Tebessa,1
+Tilrempt,1
+Tiaret,1
+Bou Sfer,1
+Tindouf,1
+Ech-cheliff,1
+Tlemcen,1
+Sidi Bel Abbes,1
+Ghriss,1
+Adrar,1
+Biskra,1
+El Golea,1
+Ghardaia,1
+Hassi Messaoud,1
+In Salah,1
+Touggourt,1
+Laghouat,1
+Timimoun,1
+Ouargla,1
+Zarzaitine,1
+Cotonou,1
+Ouagadougou,1
+Bobo-dioulasso,1
+Accra,1
+Tamale,1
+Wa,1
+Sunyani,1
+Takoradi,1
+Abidjan,1
+Bouake,1
+Daloa,1
+Korhogo,1
+Man,1
+San Pedro,1
+Yamoussoukro,1
+Abuja,1
+Akure,1
+Benin,1
+Calabar,1
+Enugu,1
+Gusau,1
+Ibadan,1
+Ilorin,1
+Jos,1
+Kaduna,1
+Kano,1
+Maiduguri,1
+Makurdi,1
+Lagos,1
+Minna,1
+Port Hartcourt,1
+Sokoto,1
+Yola,1
+Zaria,1
+Maradi,1
+Niamey,1
+Tahoua,1
+Agadez,1
+Dirkou,1
+Diffa,1
+Zinder,1
+Monastir,1
+Tunis,1
+Bizerte,1
+Remada,1
+Gafsa,1
+Gabes,1
+Bordj El Amri,1
+Djerba,1
+El Borma,1
+Sfax,1
+Tozeur,1
+Niatougou,1
+Lome,1
+Antwerp,1
+Beauvechain,1
+Kleine Brogel,1
+Brussels,1
+Bertrix,1
+Charleroi,1
+Chievres,1
+Koksijde,1
+Florennes,1
+Kortrijk-vevelgem,1
+Liege,1
+Ostend,1
+Zutendaal,1
+Sint-truiden,1
+St.-hubert,1
+Ursel,1
+Weelde,1
+Zoersel,1
+Bautzen,1
+Altenburg,1
+Dessau,1
+Eisenhuettenstadt,1
+Suhl,1
+Muehlhausen,1
+Halle,1
+Riesa,1
+Rechlin-laerz,1
+Strausberg,1
+Schoenhagen,1
+Barth,1
+Jena,1
+Kyritz,1
+Magdeburg,1
+Rothenburg/ol,1
+Anklam,1
+Cottbus,1
+Kamenz,1
+Dresden,1
+Erfurt,1
+Frankfurt,1
+Munster,1
+Cologne,1
+Duesseldorf,1
+Munich,1
+Nuernberg,1
+Leipzig,1
+Saarbruecken,1
+Stuttgart,1
+Hannover,1
+Bremen,1
+Egelsbach,1
+Hahn,1
+Mannheim,1
+Allendorf,1
+Worms,1
+Mainz,1
+Eisenach,1
+Siegerland,1
+Kiel,1
+Luebeck,1
+Dahlemer Binz,1
+Meinerzhagen,1
+Arnsberg,1
+Bielefeld,1
+Moenchengladbach,1
+Paderborn,1
+Stadtlohn,1
+Dortmund,1
+Augsburg,1
+Biberach,1
+Eggenfelden,1
+Mindelheim,1
+Oberpfaffenhofen,1
+Straubing,1
+Vilshofen,1
+Leutkirch,1
+Friedrichshafen,1
+Parchim,1
+Stendal,1
+Aalen-heidenheim,1
+Bayreuth,1
+Burg Feuerstein,1
+Hof,1
+Hassfurt,1
+Koblenz,1
+Trier,1
+Speyer,1
+Zweibruecken,1
+Donaueschingen,1
+Freiburg,1
+Mengen,1
+Schwaebisch Hall,1
+Soest,1
+Braunschweig,1
+Kassel,1
+Hildesheim,1
+Bremerhaven,1
+Emden,1
+Leer,1
+Wilhelmshaven,1
+Borkum,1
+Norderney,1
+Flensburg,1
+Rendsburg,1
+Westerland,1
+Armari Air Force Base,1
+Kardla,1
+Kuressaare,1
+Parnu,1
+Tallinn-ulemiste International,1
+Tartu,1
+Enontekio,1
+Eura,1
+Halli,1
+Hameenkyro,1
+Hanko,1
+Hyvinkaa,1
+Kikala,1
+Immola,1
+Kitee,1
+Ivalo,1
+Joensuu,1
+Jyvaskyla,1
+Kauhava,1
+Kemi,1
+Kajaani,1
+Kauhajoki,1
+Kruunupyy,1
+Kemijarvi,1
+Kuusamo,1
+Kittila,1
+Kuopio,1
+Vesivehmaa,1
+Lappeenranta,1
+Mariehamn,1
+Menkijarvi,1
+Mikkeli,1
+Nummela,1
+Oulu,1
+Piikajarvi,1
+Pori,1
+Pudasjarvi,1
+Pyhasalmi,1
+Pattijoki,1
+Rantasalmi,1
+Rovaniemi,1
+Rayskala,1
+Savonlinna,1
+Selanpaa,1
+Sodankyla,1
+Tampere,1
+Teisko,1
+Turku,1
+Utti,1
+Vaasa,1
+Varkaus,1
+Ylivieska-raudaskyla,1
+Enniskillen,1
+Londonderry,1
+Coventry,1
+Leicester,1
+Golouchestershire,1
+Halfpenny Green,1
+Pailton,1
+Turweston,1
+Wellesbourne,1
+Woodfort,1
+Chivenor,1
+Newquai,1
+Lyneham,1
+Boscombe Down,1
+Culdrose,1
+St. Athan,1
+Yeovilton,1
+Haverfordwest,1
+Cardiff,1
+Swansea,1
+Bournemouth,1
+Southampton,1
+Lasham,1
+Alderney,1
+Guernsey,1
+Jersey,1
+Shoreham By Sea,1
+Biggin Hill,1
+Farnborough,1
+Chalsgrove,1
+Blackbushe,1
+Southend,1
+Lydd,1
+Manston,1
+Brough,1
+Carlisle,1
+Repton,1
+Blackpool,1
+Humberside,1
+Warton,1
+Hawarden,1
+Isle Of Man,1
+Teesside,1
+East Midlands,1
+Llanbedr,1
+Ternhill,1
+Shawbury,1
+Woodvale,1
+Kirkwall,1
+Sumburgh,1
+Wick,1
+Inverness,1
+Islay,1
+Prestwick,1
+Benbecula,1
+Scatsta,1
+Dundee,1
+Stornoway,1
+Tiree,1
+Leuchars,1
+Lossiemouth,1
+Cambridge,1
+Norwich,1
+North Weald,1
+Fowlmere,1
+Cranfield,1
+Exeter,1
+Benson,1
+Lakenheath,1
+Mildenhall,1
+Wattisham,1
+Wyton,1
+Fairford,1
+Brize Norton,1
+Odiham,1
+Cosford,1
+Northolt,1
+Coningsby,1
+Dishforth,1
+Leeming,1
+Church Fenton,1
+Honington,1
+Cottesmore,1
+Scampton,1
+Wittering,1
+Linton-on-ouse,1
+Waddington,1
+Topcliffe,1
+Cranwell,1
+Barkston Heath,1
+Marham,1
+Amsterdam,1
+Weert,1
+Maastricht,1
+Deelen,1
+Drachten,1
+Eindhoven,1
+Groningen,1
+Gilze-rijen,1
+De Kooy,1
+Lelystad,1
+Leeuwarden,1
+Rotterdam,1
+Soesterberg,1
+Enschede,1
+Valkenburg,1
+Woensdrecht,1
+Cork,1
+Galway,1
+Connaught,1
+Kerry,1
+Casement,1
+Shannon,1
+Sligo,1
+Waterford,1
+Billund,1
+Esbjerg,1
+Gronholt,1
+Karup,1
+Laeso,1
+Maribo,1
+Odense,1
+Krusa-padborg,1
+Ronne,1
+Soenderborg,1
+Skrydstrup,1
+Skive,1
+Thisted,1
+Kolding,1
+Vagar,1
+Vesthimmerland,1
+Stauning,1
+Aalborg,1
+Luxemburg,1
+Alesund,1
+Andoya,1
+Alta,1
+Voss,1
+Bronnoysund,1
+Bodo,1
+Bergen,1
+Batsfjord,1
+Kristiansand,1
+Geilo,1
+Bardufoss,1
+Harstad/Narvik,1
+Fagernes,1
+Floro,1
+Haugesund,1
+Hasvik,1
+Kristiansund,1
+Kjeller,1
+Kirkenes,1
+Farsund,1
+Molde,1
+Mosjoen,1
+Lakselv,1
+Notodden,1
+Orland,1
+Roros,1
+Rygge,1
+Svalbard,1
+Skien,1
+Stord,1
+Sandnessjoen,1
+Tromso,1
+Sandefjord,1
+Trondheim,1
+Stavanger,1
+Gdansk,1
+Krakow,1
+Mielec,1
+Rzeszow,1
+Slupsk,1
+Shapaja,1
+Wroclaw,1
+Zielona Gora,1
+Uppsala,1
+Ronneby,1
+Rada,1
+Joenkoeping,1
+Falkoping,1
+Lidkoping,1
+Skovde,1
+Trollhattan,1
+Karlsborg,1
+Satenas,1
+Karlskoga,1
+Mora,1
+Arvika,1
+Emmaboda,1
+Ljungby,1
+Kristianstad,1
+Landskrona,1
+Oskarshamn,1
+Anderstorp,1
+Kalkmar,1
+Malmoe,1
+Halmstad,1
+Hagshult,1
+Vaxjo,1
+Hallviken,1
+Hede,1
+Sveg,1
+Gallivare,1
+Hudiksvall,1
+Jokkmokk,1
+Kramfors,1
+Lycksele,1
+Optand,1
+Sundsvall,1
+Ornskoldsvik,1
+Pitea,1
+Kiruna,1
+Orsa,1
+Skelleftea,1
+Sattna,1
+Umea,1
+Vilhelmina,1
+Arvidsjaur,1
+Orebro,1
+Vasteras,1
+Lulea,1
+Vidsel,1
+Arboga,1
+Borlange,1
+Hultsfred,1
+Gavle,1
+Eskilstuna,1
+Visby,1
+Kalixfors,1
+Spangdahlem,1
+Ramstein,1
+Giebelstadt,1
+Brueckeburg,1
+Rheine-brentlange,1
+Fritzlar,1
+Laupheim,1
+Mendig,1
+Niederstetten,1
+Roth,1
+Fassberg,1
+Grafenwoehr,1
+Hanau,1
+Hohenfels,1
+Kitzingen,1
+Nordholz,1
+Diepholz,1
+Geilenkirchen,1
+Hohn,1
+Jever,1
+Laage,1
+Noervenich,1
+Schleswig,1
+Wittmundhafen,1
+Wunstorf,1
+Vilseck,1
+Coleman,1
+Wiesbaden,1
+Landsberg,1
+Buechel,1
+Erding,1
+Fuerstenfeldbruck,1
+Holzdorf,1
+Ingolstadt,1
+Lechfeld,1
+Neuburg,1
+Guetersloh,1
+Alexander Bay,1
+Aggeneys,1
+Brakpan,1
+Bisho,1
+Bethlehem,1
+Bothaville,1
+Cape Town,1
+Calvinia,1
+East London,1
+Ermelo,1
+Ficksburg,1
+George,1
+Graaff Reinet,1
+Grahamstown,1
+Greytown,1
+Harmony,1
+Harrismith,1
+Hoedspruit,1
+Hendrik Verwoerddam,1
+Klerksdorp,1
+Kimberley,1
+Krugersdorp,1
+Kroonstad,1
+Kuruman,1
+Kleinsee,1
+Lichtenburg,1
+Lambertsbaai,1
+Langebaanweg,1
+Margate,1
+Marble Hall,1
+Majuba Power Station,1
+Malalane,1
+Musina,1
+Mkuze,1
+Nylstroom,1
+Overberg,1
+Oudtshoorn,1
+Port Elizabeth,1
+Plettenberg Bay,1
+Phalaborwa,1
+Polokwane,1
+Port Saint Johns,1
+Pietermaritzburg,1
+Pilanesberg,1
+Potgietersrus,1
+Potchefstroom,1
+Parys,1
+Queenstown,1
+Richard's Bay,1
+Rustenburg,1
+Robertson,1
+Springbok,1
+Secunda,1
+Saldanha,1
+Springs,1
+Swartkop,1
+Sishen,1
+Swellendam,1
+Skukuza,1
+Tommy's Field,1
+Tutuka,1
+Tzaneen,1
+Ulundi,1
+Upington,1
+Umtata,1
+Vryburg,1
+Vredendal,1
+Vereeniging,1
+Pretoria,1
+Witbank,1
+Waterkloof,1
+Welkom,1
+Ysterplaat,1
+Zeerust,1
+Francistown,1
+Jwaneng,1
+Kasane,1
+Maun,1
+Gaberone,1
+Selebi-phikwe,1
+Brazzaville,1
+Owando,1
+Ouesso,1
+Pointe-noire,1
+Bangui,1
+Berberati,1
+Bata,1
+Malabo,1
+Wide Awake,1
+Plaisance,1
+Rodriguez Island,1
+Diego Garcia Island,1
+Tiko,1
+Douala,1
+Maroua,1
+Foumban,1
+N'gaoundere,1
+Garoua,1
+Bafoussam,1
+Bamenda,1
+Kasompe,1
+Livingstone,1
+Mount Hagen,1
+Mfuwe,1
+Mongu,1
+Ndola,1
+Southdowns,1
+Moheli,1
+Anjouan,1
+Dzaoudzi,1
+St.-denis,1
+Antananarivo,1
+Miandrivazo,1
+Sainte Marie,1
+Toamasina,1
+Morondava,1
+Antsiranana,1
+Mananara,1
+Andapa,1
+Ambilobe,1
+Antalaha,1
+Analalava,1
+Mahajanga,1
+Nosy-be,1
+Besalampy,1
+Maroantsetra,1
+Sambava,1
+Vohemar,1
+Antsohihy,1
+Ampampamena,1
+Tolagnaro,1
+Fianarantsoa,1
+Farafangana,1
+Manakara,1
+Mananjary,1
+Morombe,1
+Toliara,1
+M'banza-congo,1
+Benguela,1
+Cabinda,1
+Huambo,1
+Kuito,1
+Lobito,1
+Luanda,1
+Malanje,1
+Menongue,1
+Negage,1
+Porto Amboim,1
+Saurimo,1
+Soyo,1
+Lubango,1
+Luena,1
+Uige,1
+Xangongo,1
+Oyem,1
+Okondja,1
+Lambarene,1
+Bitam,1
+Port Gentil,1
+Omboue Hospial,1
+Makokou,1
+Libreville,1
+Franceville,1
+Principe,1
+Sao Tome,1
+Beira,1
+Inhambane,1
+Lichinga,1
+Lumbo,1
+Maputo,1
+Mueda,1
+Mocimboa Da Praia,1
+Marrupa,1
+Nacala,1
+Nampula,1
+Quelimane,1
+Songo,1
+Tete,1
+Ulongwe,1
+Vilankulu,1
+Alphonse,1
+Desroches,1
+Farquhar,1
+Mahe,1
+Praslin,1
+Coetivy,1
+Abeche,1
+Moundou,1
+N'djamena,1
+Faya-largeau,1
+Bulawayo,1
+Chiredzi,1
+Victoria Falls,1
+Kariba,1
+Mutoko,1
+Mutare,1
+Masvingo,1
+Zvishavane,1
+Gwert,1
+Hwange National Park,1
+Blantyre,1
+Karonga,1
+Kasungu,1
+Lilongwe,1
+Mzuzu,1
+Muanda,1
+Kitona Base,1
+Bandoundu,1
+Kikwit,1
+Mbandaka,1
+Gbadolite,1
+Gemena,1
+Kotakoli,1
+Lisala,1
+Kisangani,1
+Isiro,1
+Bunia,1
+Buta Zega,1
+Bukavu/kavumu,1
+Goma,1
+Kindu,1
+Lubumashi,1
+Kolwezi,1
+Kalemie,1
+Kamina Base,1
+Kananga,1
+Mbuji-mayi,1
+Bamako,1
+Gao,1
+Kayes,1
+Mopti,1
+Tombouctou,1
+Tessalit,1
+Banjul,1
+Fuerteventura,1
+Hierro,1
+Santa Cruz De La Palma,1
+Gran Canaria,1
+Arrecife,1
+Melilla,1
+Cufar,1
+Agadir,1
+Tan Tan,1
+Ifrane,1
+Er-rachidia,1
+Meknes,1
+Oujda,1
+Ben Slimane,1
+Rabat,1
+Casablanca,1
+Marrakech,1
+Kentira,1
+Ouarzazate,1
+Al Hociema,1
+Tetouan,1
+Tanger,1
+Ziguinchor,1
+Cap Skiring,1
+Kaolack,1
+Dakar,1
+Bakel,1
+Kedougou,1
+Tambacounda,1
+Aioun El Atrouss,1
+Tidjikja,1
+Kiffa,1
+Nema,1
+Kaedi,1
+Nouakschott,1
+Selibabi,1
+Atar,1
+Nouadhibou,1
+Bir Moghrein,1
+Fira,1
+Faranah,1
+Labe,1
+Amilcar Cabral,1
+Maio,1
+Sao Nocolau Island,1
+Sao Vicente Island,1
+Arba Minch,1
+Axum,1
+Bahar Dar,1
+Dire Dawa,1
+Gambella,1
+Gondar,1
+Jimma,1
+Lalibella,1
+Asosa,1
+Bujumbura,1
+Hargeisa,1
+Berbera,1
+Kismayu,1
+Abu Simbel,1
+Hurghada,1
+El Gorah,1
+Luxor,1
+Mersa-matruh,1
+Port Said,1
+St. Catherine,1
+Aswan,1
+El-tor,1
+Eldoret,1
+Kakamega,1
+Kisumu,1
+Kitale,1
+Lodwar,1
+Lamu,1
+Mombasa,1
+Naivasha,1
+Wajir,1
+Buattifel,1
+Giallo,1
+Ghat,1
+Kufra,1
+Benghazi,1
+Sebha,1
+Marsa Brega,1
+Ras Lanouf V 40,1
+Hon,1
+Dahra,1
+Ghadames,1
+Zella 74,1
+Gisenyi,1
+Kigali,1
+Kamembe,1
+Dongola,1
+Damazin,1
+El Fasher,1
+Kassala,1
+Kadugli,1
+El Obeid,1
+Juba,1
+Malakal,1
+Khartoum,1
+Arusha,1
+Dar Es Salaam,1
+Dodoma,1
+Iringa,1
+Lake Manyara,1
+Mtwara,1
+Mwanza,1
+Tanga,1
+Zanzibar,1
+Entebbe,1
+Soroti,1
+Tirana,1
+Bourgas,1
+Gorna Orechovica,1
+Plovdiv,1
+Sofia,1
+Stara Zagora,1
+Varna,1
+Larnaca,1
+Paphos,1
+Akrotiri,1
+Dubrovnik,1
+Cepin,1
+Osijek,1
+Pula,1
+Grobnik,1
+Rijeka,1
+Split,1
+Varazdin,1
+Zagreb,1
+Zadar,1
+Udbina,1
+Albacete,1
+Alicante,1
+Almeria,1
+Aviles,1
+Bilbao,1
+Badajoz,1
+La Coruna,1
+Gerona,1
+Ibiza,1
+Jerez,1
+Malaga,1
+Menorca,1
+Pamplona,1
+Reus,1
+Salamanca,1
+Son Bonet,1
+Seo De Urgel,1
+Valladolid,1
+Vigo,1
+Santander,1
+Zaragoza,1
+Calais,1
+Peronne,1
+Nangis,1
+Bagnole-de-l'orne,1
+Albert,1
+Le Tourquet,1
+Valenciennes,1
+Amiens,1
+Agen,1
+Cazaux,1
+Bordeaux,1
+Bergerac,1
+Cognac,1
+Poitiers,1
+Montlucon-gueret,1
+Limoges,1
+Mont-de-marsan,1
+Niort,1
+Pau,1
+Tarbes,1
+Angouleme,1
+Brive,1
+Perigueux,1
+Biarritz-bayonne,1
+Cahors,1
+St.-girons,1
+Arcachon,1
+Albi,1
+Castres,1
+Millau,1
+Graulhet,1
+Rodez,1
+Ussel,1
+Villeneuve-sur-lot,1
+Royan,1
+Mimizan,1
+Aire-sur-l'adour,1
+Montauban,1
+Auch,1
+Libourne,1
+Pamiers,1
+Marmande,1
+Rochefort,1
+Pontivy,1
+Aubigny-sur-nere,1
+Guiscriff-scaer,1
+Ancenis,1
+Brienne-le Chateau,1
+Beaune,1
+Dole,1
+Joigny,1
+Aubenas-vals-lanas,1
+Le Puy,1
+St.-flour,1
+Bourg,1
+Vilefrance,1
+Moulins,1
+St.-afrique-belmont,1
+Cassagnes-beghones,1
+Bastia,1
+Calvi,1
+Figari,1
+Propriano,1
+Solenzara,1
+Corte,1
+Auxerre,1
+Clermont-Ferrand,1
+Bourges,1
+Chalon,1
+Annemasse,1
+St.-yan,1
+Roanne,1
+Annecy,1
+Grenoble,1
+Montlucon,1
+Valence,1
+Vichy,1
+Aurillac,1
+Chateauroux,1
+Aix-les-milles,1
+Le Luc,1
+Cannes,1
+St-Etienne,1
+Istres,1
+Carcassonne,1
+Marseille,1
+Nice,1
+Perpignan,1
+Le Castellet,1
+Ales,1
+Montpellier,1
+Beziers,1
+Avignon,1
+Salon,1
+Lezignan-corbieres,1
+Mende,1
+Carpentras,1
+Avord,1
+Beauvais,1
+Chateaudun,1
+Saumur,1
+Evreux,1
+Le Havre,1
+Abbeville,1
+Chalons,1
+Rouen,1
+Tours,1
+Cholet,1
+Laval,1
+Creil,1
+Coulommiers,1
+Melun,1
+Toussous-le-noble,1
+Pontoise,1
+Villacoublay,1
+Troyes,1
+Luneville,1
+Etain,1
+Autun,1
+Nevers,1
+Cambrai,1
+Maubeuge,1
+Besancon-la-veze,1
+Phalsbourg,1
+Lille,1
+Merville,1
+Charleville,1
+Vesoul-frotey,1
+Cherbourg,1
+Dinard,1
+La Baule,1
+Granville,1
+Deauville,1
+Lorient,1
+La Roche-sur-yon,1
+Landivisiau,1
+Caen,1
+Lanvedoc,1
+Le Mans,1
+Rennes,1
+Lannion,1
+Quimper,1
+Nantes,1
+St.-brieuc Armor,1
+Morlaix,1
+Vannes,1
+St.-nazaire,1
+Mulhouse,1
+Dijon,1
+Epinal,1
+Haguenau,1
+St.-dizier,1
+Montbeliard,1
+Pontarlier,1
+Strasbourg,1
+Luxeuil,1
+Cuers,1
+Hyeres,1
+Nimes,1
+Miquelon,1
+Amberieu,1
+Damblain,1
+Andravida,1
+Agrinion,1
+Alexandroupolis,1
+Nea Anghialos,1
+Elefsis,1
+Chios,1
+Ioannina,1
+Heraklion,1
+Kastoria,1
+Kithira,1
+Keffallinia,1
+Kalamata,1
+Kos,1
+Karpathos,1
+Kerkyra/corfu,1
+Kasos,1
+Kozani,1
+Leros,1
+Limnos,1
+Larissa,1
+Megara,1
+Mykonos,1
+Mytilini,1
+Preveza,1
+Patras,1
+Chania,1
+Skiathos,1
+Samos,1
+Sparti,1
+Thira,1
+Sitia,1
+Stefanovikion,1
+Skiros,1
+Tanagra,1
+Kasteli,1
+Tripolis,1
+Thessaloniki,1
+Dekelia,1
+Zakynthos,1
+Debrecen,1
+Kecskemet,1
+Nyirregyhaza,1
+Ocseny,1
+Azentkilyszabadja,1
+Szolnok,1
+Amendola,1
+Crotone,1
+Bari,1
+Foggia,1
+Grottaglie,1
+Lecce,1
+Pescara,1
+Brindisi,1
+Gioia Del Colle,1
+Lamezia,1
+Catania,1
+Lampedusa,1
+Pantelleria,1
+Reggio Calabria,1
+Trapani,1
+Sigonella,1
+Alghero,1
+Decimomannu,1
+Cagliari,1
+Olbia,1
+Tortoli,1
+Turin,1
+Bergamo,1
+Torino,1
+Albenga,1
+Genoa,1
+Milan,1
+Cameri,1
+Parma,1
+Piacenza,1
+Cuneo,1
+Aviano,1
+Bolzano,1
+Cervia,1
+Bologna,1
+Rivolto,1
+Forli,1
+Ghedi,1
+Verona,1
+Brescia,1
+Ronchi De Legionari,1
+Rimini,1
+Vicenza,1
+Padova,1
+Villafranca,1
+Siena,1
+Pratica Di Mare,1
+Guidonia,1
+Marina Di Campo,1
+Latina,1
+Grazzanise,1
+Pisa,1
+Grosseto,1
+Viterbo,1
+Perugia,1
+Cerklje,1
+Ljubljana,1
+Maribor,1
+Portoroz,1
+Slovenj Gradec,1
+Ceske Budejovice,1
+Caslav,1
+Hradec Kralove,1
+Horovice,1
+Praha,1
+Kunovice,1
+Karlovy Vary,1
+Line,1
+Mnichovo Hradiste,1
+Ostrava,1
+Namest,1
+Pardubice,1
+Pribram,1
+Prerov,1
+Prague,1
+Brno,1
+Vodochody,1
+Beer-sheba,1
+Tel-nof,1
+Eyn-shemer,1
+Elat,1
+Eyn-yahav,1
+Haifa,1
+Haztor,1
+Rosh Pina,1
+Megido Airstrip,1
+Metzada,1
+Nevatim,1
+Ovda,1
+Ramat David,1
+Ramon,1
+Malta,1
+Wiener Neustadt Ost,1
+Wels,1
+Graz,1
+Innsbruck,1
+Linz,1
+Salzburg,1
+Vienna,1
+Zeltweg,1
+Alverca,1
+Santa Maria (island),1
+Braganca,1
+Beja (madeira),1
+Braga,1
+Coimba,1
+Cascais,1
+Covilha,1
+Evora,1
+Graciosa Island,1
+Horta,1
+Lajes (terceira Island),1
+Monte Real,1
+Montijo,1
+Ovar,1
+Ponta Delgada,1
+Pico,1
+Portimao,1
+Porto,1
+Porto Santo,1
+Lisbon,1
+Sao Jorge Island,1
+Sintra,1
+Tancos,1
+Vila Real,1
+Viseu,1
+Mostar,1
+Sarajevo,1
+Arad,1
+Bacau,1
+Baia Mare,1
+Constanta,1
+Cluj-napoca,1
+Caransebes,1
+Craiova,1
+Iasi,1
+Oradea,1
+Sibiu,1
+Satu Mare,1
+Suceava,1
+Tulcea,1
+Tirgu Mures,1
+Timisoara,1
+Les Eplatures,1
+Geneva,1
+Saanen,1
+Sion,1
+Alpnach,1
+Dubendorf,1
+Emmen,1
+Mollis,1
+Meiringen,1
+Payerne,1
+Lugano,1
+Bern,1
+Grenchen,1
+Zurich,1
+Altenrhein,1
+Samedan,1
+Afyon,1
+Antalya,1
+Gaziantep,1
+Iskenderun,1
+Konya,1
+Merzifon,1
+Sivas,1
+Kayseri,1
+Sivrihisar,1
+Tokat,1
+Denizli,1
+Balikesir,1
+Bandirma,1
+Eskisehir,1
+Yalova,1
+Topel,1
+Dalaman,1
+Akhisar,1
+Elazig,1
+Diyabakir,1
+Erzincan,1
+Erzurum,1
+Trabzon,1
+Van,1
+Batman,1
+Siirt,1
+Saltsy,1
+Chisinau,1
+Ohrid,1
+Skopje,1
+Gibraltar,1
+Belgrade,1
+Nis,1
+Podgorica,1
+Pristina,1
+Tivat,1
+Vrsac,1
+Bratislava,1
+Kosice,1
+Malacky,1
+Piestany,1
+Sliac,1
+Trencin,1
+Poprad,1
+North Caicos,1
+Providenciales,1
+South Caicos,1
+Barahona,1
+Cabo Rojo,1
+La Romana,1
+Punta Cana,1
+Puerto Plata,1
+San Isidoro,1
+Bananera,1
+Coban,1
+Guatemala City,1
+Retalhuleu,1
+La Ceiba,1
+San Pedro Sula,1
+Guanaja,1
+Roatan,1
+Tela,1
+Tegucigalpa,1
+Ocho Rios,1
+Montego Bay,1
+Port Antonio,1
+Acapulco,1
+Aguascalientes,1
+Huatulco,1
+Cuernavaca,1
+Ciudad Acuna,1
+Ciudad Del Carmen,1
+Nuevo Casas Grandes,1
+Chilpancingo,1
+Culiacan,1
+Chetumal,1
+Ciudad Obregon,1
+Campeche,1
+Ciudad Juarez,1
+Chihuahua,1
+Ciudad Victoria,1
+Cozumel,1
+Tepic,1
+Ensenada,1
+Guadalajara,1
+Guaymas,1
+Tehuacan,1
+Hermosillo,1
+Colima,1
+Isla Mujeres,1
+Saltillo,1
+Iztepec,1
+Lazard Cardenas,1
+Los Mochis,1
+Del Bajio,1
+Loreto,1
+Matamoros,1
+Mexicali,1
+Morelia,1
+Minatitlan,1
+Monclova,1
+Mexico City,1
+Mazatlan,1
+Nuevo Laredo,1
+Oaxaca,1
+Poza Rico,1
+Puebla,1
+Pachuca,1
+Punta Penasco,1
+Piedras Negras,1
+Uruapan,1
+Puerto Vallarta,1
+Puerto Escondido,1
+Queretaro,1
+Reynosa,1
+San Jose Del Cabo,1
+San Filipe,1
+San Luis Potosi,1
+Tlaxcala,1
+Torreon,1
+Tijuana,1
+Tampico,1
+Tamuin,1
+Toluca,1
+Tapachula,1
+Cancun,1
+Villahermosa,1
+Vera Cruz,1
+Zacatecas,1
+Zihuatanejo,1
+Zamora,1
+Zapopan,1
+Bluefields,1
+Los Brasiles,1
+Managua,1
+Puerto Cabezas,1
+Bocas Del Toro,1
+Changuinola,1
+David,1
+Howard,1
+Panama,1
+Coto 47,1
+Chacarita,1
+El Carmen,1
+Finca 10,1
+Golfito,1
+Liberia,1
+Los Chiles,1
+Limon,1
+Nosara Beach,1
+Pandora,1
+Palmar Sur,1
+Quepos,1
+San Vito De Jaba,1
+Cayes,1
+Cap Haitien,1
+Jacmel,1
+Port-au-prince,1
+Bayamo,1
+Ciego De Avila,1
+Cunagua,1
+Cienfuegos,1
+Cayo Largo del Sur,1
+Camaguey,1
+Santiago De Cuba,1
+Florida,1
+Havana,1
+Holguin,1
+La Coloma,1
+Moa,1
+Nueva Gerona,1
+Pinar Del Rio Norte,1
+San Antonio De Banos,1
+Siguanea,1
+Sancti Spiritus,1
+Varadero,1
+Las Tunas,1
+Cayman Brac,1
+Clarence Bain,1
+Andros Town,1
+Marsh Harbor,1
+San Andros,1
+Spring Point,1
+Sandy Point,1
+Treasure Cay,1
+Chub Cay,1
+Bullocks Harbour,1
+Alice Town,1
+Great Exuma,1
+George Town,1
+North Eleuthera,1
+Governor's Harbor,1
+Norman's Cay,1
+Rock Sound,1
+Staniel Cay,1
+Freeport,1
+Matthew Town,1
+Dead Man's Cay,1
+Stella Maris,1
+Mayaguana,1
+Duncan Town,1
+Port Nelson,1
+Belize City,1
+Aitutaki,1
+Avarua,1
+Nandi,1
+Nausori,1
+Tongatapu,1
+Vava'u,1
+Tarawa,1
+Tabiteuea North,1
+Wallis,1
+Faleolo,1
+Pago Pago,1
+Rurutu,1
+Tubuai,1
+Anaa,1
+Fangatau,1
+Tikehau,1
+Reao,1
+Fakarava,1
+Manihi,1
+Totegegie,1
+Kaukura Atoll,1
+Makemo,1
+Puka Puka,1
+Takapoto,1
+Arutua,1
+Mataiva,1
+Takaroa,1
+Nuku Hiva,1
+Bora Bora,1
+Rangiroa,1
+Huahine Island,1
+Moorea,1
+Hao Island,1
+Maupiti,1
+Raiatea Island,1
+Port-vila,1
+Kone,1
+Koumac,1
+Lifou,1
+Mare,1
+Touho,1
+Ouvea,1
+Auckland,1
+Taupo,1
+Christchurch,1
+Chatham Island,1
+Dunedin,1
+Gisborne,1
+Glentanner,1
+Hokitika,1
+Hastings,1
+Kerikeri,1
+Kaitaia,1
+Alexandra,1
+Mount Cook,1
+Manapouri,1
+Masterton,1
+New Plymouth,1
+Nelson,1
+Invercargill,1
+Ohakea,1
+Oamaru,1
+Palmerston North,1
+Paraparaumu,1
+Queenstown International,1
+Rotorua,1
+Waiouru,1
+Stephen's Island,1
+Tauranga,1
+Timaru,1
+Pukaki,1
+Woodbourne,1
+Weydon,1
+Wanaka,1
+Wigram,1
+Whakatane,1
+Wairoa,1
+Whenuapai,1
+Whangarei,1
+Westport,1
+Wanganui,1
+Herat,1
+Jalalabad,1
+Kandahar,1
+Maimama,1
+Mazar-i-sharif,1
+Shindand,1
+Sheberghan,1
+Kunduz,1
+Abha,1
+Al-ahsa,1
+El-baha,1
+Bisha,1
+Abqaiq,1
+Dammam,1
+Dhahran,1
+Gizan,1
+Gassim,1
+Guriat,1
+Hail,1
+Jubail,1
+King Khalid Mil.city,1
+Madinah,1
+Nejran,1
+Hafr Al-batin,1
+Petroline 3,1
+Petroline 6,1
+Petroline 10,1
+Rabigh,1
+Rafha,1
+Rash Mishab,1
+Arar,1
+Ras Tanura,1
+Sharurah,1
+Sulayel,1
+Tabuk,1
+Taif,1
+Thumamah,1
+Ras Tanajib,1
+Turaif,1
+Wejh,1
+Yenbo,1
+Abadan,1
+Dezful,1
+Aghajari,1
+Gachsaran,1
+Masjed Soleiman,1
+Omidyeh,1
+Bandar Mahshahr,1
+Ahwaz,1
+Abumusa I.,1
+Bushehr,1
+Bastak,1
+Golbandi,1
+Kish Island,1
+Bandar Lengeh,1
+Khark Island,1
+Siri Island,1
+Lavan Island,1
+Bakhtaran,1
+Sanandaj,1
+Daran,1
+Kashan,1
+Sepah,1
+Rasht,1
+Arak,1
+Abe-ali,1
+Kushke Nosrat,1
+Ghazvin,1
+Khoram Dareh,1
+Jiroft,1
+Kerman,1
+Gheshm I.,1
+Sirjan,1
+Birjand,1
+Sarakhs,1
+Emam Shahr,1
+Tabas,1
+Kalaleh,1
+Ramsar,1
+Fasa,1
+Jahrom,1
+Lamerd,1
+Shiraz,1
+Khoy,1
+Tabriz,1
+Zanjan,1
+Yazd,1
+Zabol,1
+Chah Bahar,1
+Zahedan,1
+Iran Shahr,1
+Saravan,1
+Aqaba,1
+Hotel Four,1
+Jerusalem,1
+Mafraq,1
+Beirut,1
+Kleiat,1
+Al Hamra,1
+Jebel Dhana,1
+Arzana,1
+Das Island,1
+Zirku,1
+Fujeirah,1
+Ras Al Khaimah,1
+Sharjah,1
+Khasab,1
+Masirah,1
+Muscat,1
+Salalah,1
+Thumrait,1
+Bhagtanwala,1
+Faisalabad,1
+Gwadar,1
+Gilgit,1
+Jacobsbad,1
+Mangla,1
+Muzaffarabad,1
+Mianwali,1
+Moenjodaro,1
+Multan,1
+Nawabshah,1
+Okara,1
+Panjgur,1
+Pasni,1
+Peshawar,1
+Qasim,1
+Quetta,1
+Rahim Yar Khan,1
+Islamabad,1
+Risalpur,1
+Rawala Kot,1
+Sukkur,1
+Saidu Sharif,1
+Sui,1
+Talhar,1
+Wana,1
+Zhob,1
+Basrah,1
+Aleppo,1
+Damascus,1
+Deire Zor,1
+Latakia,1
+Palmyra,1
+Canton Island,1
+Saipan,1
+Agana,1
+West Tinian,1
+Majuro,1
+Kiritimati,1
+Midway,1
+Chuuk,1
+Pohnpei,1
+Babelthuap,1
+Kosrae,1
+Yap,1
+Kinmen,1
+Longtang,1
+Fengnin,1
+Green Island,1
+Kaohsiung,1
+Chiayi,1
+Lanyu,1
+Tainan,1
+Hsinchu,1
+Makung,1
+Taitung,1
+Wang An,1
+Hualien,1
+Matsumoto,1
+Ibaraki,1
+Minami Tori Shima,1
+Iwojima,1
+Nanki-shirahama,1
+Kohnan,1
+Obihiro,1
+Hakodate,1
+Chitose,1
+Memanbetsu,1
+Nakashibetsu,1
+Tokachi,1
+Wakkanai,1
+Iki,1
+Yamaguchi,1
+Tsushima,1
+Monbetsu,1
+Asahikawa,1
+Okushiri,1
+Rishiri Island,1
+Ashiya,1
+Yakushima,1
+Fukue,1
+Fukuoka,1
+Tanegashima,1
+Kagoshima,1
+Miyazaki,1
+Nyutabaru,1
+Oita,1
+Kitakyushu,1
+Kumamoto,1
+Nagasaki,1
+Kanoya,1
+Tsuiki,1
+Amami,1
+Okierabu,1
+Tokunoshima,1
+Fukui,1
+Gifu,1
+Hamamatsu,1
+Kanazawa,1
+Oki Island,1
+Toyama,1
+Yaizu,1
+Okayama,1
+Izumo,1
+Hofu,1
+Miho,1
+Matsuyama,1
+Tottori,1
+Tokushima,1
+Takamatsu,1
+Ozuki,1
+Aomori,1
+Yamagata,1
+Sado,1
+Hachinoe,1
+Hanamaki,1
+Akita,1
+Misawa,1
+Sendai,1
+Matsushima,1
+Atsugi,1
+Tateyama,1
+Hachijojima,1
+Iruma,1
+Kisarazu,1
+Shimofusa,1
+Oshima,1
+Zama,1
+Yokota,1
+Kwangju,1
+Jhunju,1
+Yeosu,1
+Sokch'o,1
+Kangnung,1
+Cheju,1
+Chinhae,1
+Busan,1
+Ulsan,1
+Pyongtaek,1
+Seoul East,1
+Osan,1
+Suwon,1
+Pohang,1
+Taegu,1
+Yechon,1
+Okinawa,1
+Iejima,1
+Kadena,1
+Ishigaki,1
+Kumejima,1
+Minami Daito,1
+Miyako,1
+Kitadaito,1
+Shimojishima,1
+Tarama,1
+Yoron,1
+Futema,1
+Yonaguni Jima,1
+Manila,1
+Cotabato,1
+Ladag,1
+Pagadian,1
+Zamboanga,1
+Baguio,1
+Daet,1
+Floridablanca,1
+Lingayen,1
+Lipa,1
+Mamburao,1
+Vigan,1
+Baler,1
+Bagabag,1
+Tacloban,1
+Bacolod,1
+Dumaguete,1
+Caticlan,1
+Guiuan,1
+Iloilo,1
+Kalibo,1
+Puerto Princesa,1
+Gualeguaychu,1
+Junin,1
+Parana,1
+Rosario,1
+Gobernador Gordillo,1
+Jose C. Paz,1
+La Plata,1
+Moron,1
+El Palomar,1
+Chosmadal,1
+Fuerte Gral Roca,1
+Mendoza,1
+Malargue,1
+San Rafael,1
+Catamarca,1
+Santiago Del Estero,1
+Tinogasta,1
+La Rioja,1
+Chilecito,1
+Tucuman,1
+Rio Cuarto,1
+Villa Dolores,1
+Laboulaye,1
+Marcos Juarez,1
+Villa Reynolds,1
+Corrientes,1
+Resistencia,1
+Formosa,1
+Iguazu Falls,1
+Paso De Los Libres,1
+Monte Caseros,1
+Posadas,1
+Salta,1
+Jujuy,1
+La Quiaca,1
+Goya,1
+Obera,1
+Reconquista,1
+Curuzu Cuatia,1
+El Bolson,1
+Comodoro Rivadavia,1
+Esquel,1
+Trelew,1
+Viedma,1
+Puerto Madryn,1
+Marambio Base,1
+Puerto Deseado,1
+Rio Grande,1
+Rio Gallegos,1
+Ushuaia,1
+Perito Moreno,1
+Bahia Blanca,1
+Colonel Suarez,1
+Olavarria,1
+General Pico,1
+Tres Arroyos,1
+Bolivar,1
+Mar Del Plata,1
+Neuquen,1
+Pehuajo,1
+San Carlos De Bariloche,1
+Tandil,1
+Villa Gesell,1
+Cutralco,1
+San Martin Des Andes,1
+Conceicao Do Araguaia,1
+Amapa,1
+Aracaju,1
+Alta Floresta,1
+Aracatuba,1
+Bage,1
+Barbacena,1
+Brasilia,1
+Barra Do Garcas,1
+Cascavel,1
+Campo Grande,1
+Chapeco,1
+Carolina,1
+Criciuma,1
+Campos,1
+Corumba,1
+Caravelas,1
+Caxias Do Sul,1
+Cuiaba,1
+Cruzeiro do Sul,1
+President Prudente,1
+Jacare-acanga,1
+Sao Pedro Da Aldeia,1
+Florianopolis,1
+Fernando Do Noronha,1
+Alpinopolis,1
+Fortaleza,1
+Guajara-mirim,1
+Goiania,1
+Macae,1
+Guaratingueta,1
+Altamira,1
+Ilheus,1
+Ipatinga,1
+Itumbiara,1
+Imperatriz,1
+Juiz De Fora,1
+Joao Pessoa,1
+Joinville,1
+Campina Grande,1
+Lajes,1
+Lins,1
+Londrina,1
+Bom Jesus Da Lapa,1
+Lagoa Santa,1
+Maraba,1
+Almeirim,1
+Maringa,1
+Montes Claros,1
+Maceio,1
+Macapa,1
+Mocord,1
+Manicore,1
+Navegantes,1
+Santo Angelo,1
+Oioiapoque,1
+Parnaiba,1
+Pocos De Caldas,1
+Passo Fundo,1
+Pelotas,1
+Petrolina,1
+Porto Nacional,1
+Ponta Pora,1
+Porto Velho,1
+Rio Branco,1
+Recife,1
+Ribeirao Preto,1
+Sao Jose Dos Campos,1
+Sao Luis,1
+Sao Jose Do Rio Preto,1
+Santos,1
+Salvador,1
+Teresina,1
+Tefe,1
+Tarauaca,1
+Telemaco Borba,1
+Obidos Tirios,1
+Tabatinga,1
+Tucurui,1
+Sao Gabriel,1
+Paulo Alfonso,1
+Uruguaiana,1
+Uberlandia,1
+Uberaba,1
+Varginha,1
+Vilhena,1
+Iauarete,1
+Piracununga,1
+Arica,1
+Balmaceda,1
+Chile Chico,1
+Calama,1
+Chillan,1
+Punta Arenas,1
+Coyhaique,1
+Iquique,1
+Antofagasta,1
+Porvenir,1
+Futaleufu,1
+Puerto Williams,1
+Concepcion,1
+Easter Island,1
+Osorno,1
+Vallenar,1
+Rancagua,1
+Isla Rey Jorge,1
+La Serena,1
+Temuco,1
+Puerto Montt,1
+Chaiten,1
+Valdivia,1
+Ambato,1
+Clementia,1
+Coca,1
+Cuenca,1
+Galapagos,1
+Guayaquil,1
+Gualaquiza,1
+Ibarra,1
+Km-192,1
+La Julia,1
+Latacunga,1
+Macara,1
+Macas,1
+Machala,1
+Montalvo,1
+Manta,1
+Maragrosa,1
+Pasaje,1
+Portoviejo,1
+Quevedo,1
+Quito,1
+Riobamba,1
+Taura,1
+Tena,1
+Tarapoa,1
+Tulcan,1
+Asuncion,1
+Ayolas,1
+Conception,1
+Itaipu,1
+Mariscal Estigarribia,1
+Pilar,1
+Armenia,1
+Puerto Asis,1
+El Banco,1
+Bucaramanga,1
+Bogota,1
+Barranquilla,1
+Bahia Solano,1
+Buenaventura,1
+Cucuta,1
+Cartagena,1
+Cali,1
+Tumaco,1
+Corozal,1
+Barrancabermeja,1
+Florencia,1
+Girardot,1
+Guapi,1
+Guaymaral,1
+Ibague,1
+Ipiales,1
+Carepa,1
+La Mina,1
+Leticia,1
+Medellin,1
+Magangue,1
+Monteria,1
+Mitu,1
+Manizales,1
+Neiva,1
+Otu,1
+Puerto Bolivar,1
+Puerto Carreno,1
+Pereira,1
+Pitalito,1
+Popayan,1
+Pasto,1
+Providencia,1
+Mariquita,1
+Rio Negro,1
+Rio Hacha,1
+San Jose Del Guaviare,1
+Santa Marta,1
+San Andres Island,1
+San Vincente De Caguan,1
+Tame,1
+Arauca,1
+Quibdo,1
+Tulua,1
+Valledupar,1
+Villavicencio,1
+Bermejo,1
+Cochabamba,1
+Chapacura,1
+Cobija,1
+Oruro,1
+Potosi,1
+Puerto Suarez,1
+Sucre,1
+Tarija,1
+Villa Montes,1
+Yacuiba,1
+Zandery,1
+Cayenne,1
+St.-georges Oyapock,1
+Huancabamba,1
+Andoas,1
+Atalaya,1
+Iberia,1
+Pucallpa,1
+Chimbote,1
+Puerto Esperanza,1
+Moquegua,1
+Chiclayo,1
+Ayacucho,1
+Andahuaylas,1
+Anta,1
+Juanjui,1
+Jauja,1
+Juliaca,1
+Ilo,1
+Las Palmas,1
+Tumbes,1
+Yurimaguas,1
+Collique,1
+Chachapoyas,1
+Iquitos,1
+Arequipa,1
+San Ramon,1
+Pisco,1
+Tarapoto,1
+Tacna,1
+Puerto Maldonado,1
+Piura,1
+Talara,1
+Cuzco,1
+Durazno,1
+Salto,1
+Acarigua,1
+Anaco,1
+San Fernando Deatabapo,1
+Barinas,1
+Barquisimeto,1
+Ciudad Bolivar,1
+Caicara De Orinoco,1
+Calabozo,1
+Canaima,1
+Carora,1
+Carupano,1
+Coro,1
+Cumana,1
+Carrizal,1
+Elorza,1
+Guasdualito,1
+Guiria,1
+Guanare,1
+Higuerote,1
+Isla De Coche,1
+Paraguana,1
+San Juan De Los Morros,1
+La Fria,1
+La Orchila,1
+Porlamar,1
+Puerto Ayacucho,1
+Puerto Cabello,1
+San Cristobal,1
+Guayana,1
+Palmarito,1
+Santa Ana De Uairen,1
+San Felipe,1
+San Fernando De Apure,1
+San Tome,1
+Tucupita,1
+Tumeremo,1
+Valera,1
+Valle De La Pascua,1
+Lethem,1
+Antigua,1
+Bridgetown,1
+Canefield,1
+Dominica,1
+Fort-de-france,1
+St. Martin,1
+Pointe-a-pitre,1
+Point Salines,1
+St. Thomas,1
+St. Croix Island,1
+Aguadilla,1
+Fajardo,1
+Mayaguez,1
+Ponce,1
+Castries,1
+Hewandorra,1
+Kralendijk,1
+Willemstad,1
+The Valley,1
+Scarborough,1
+Port-of-spain,1
+Tortola,1
+Canouan Island,1
+Mustique,1
+Kingstown,1
+Alma-ata,1
+Balkhash,1
+Tselinograd,1
+Dzhambul,1
+Bishkek,1
+Osh,1
+Chimkent,1
+Uralsk,1
+Pavlodar,1
+Semiplatinsk,1
+Aktyubinsk,1
+Baku,1
+Mirnyj,1
+Blagoveschensk,1
+Provideniya Bay,1
+Pevek,1
+Petropavlovsk,1
+Yuzhno-sakhalinsk,1
+Vladivostok,1
+Chita,1
+Bratsk,1
+Irkutsk,1
+Ulan-ude,1
+Donetsk,1
+Dnepropetrovsk,1
+Simferopol,1
+Lvov,1
+Odessa,1
+Gomel,1
+Vitebsk,1
+Kaliningrad,1
+Minsk 2,1
+Abakan,1
+Barnaul,1
+Kemorovo,1
+Krasnodar,1
+Makhachkala,1
+Mineralnye Vody,1
+Stavropol,1
+Rostov,1
+Sochi,1
+Astrakhan,1
+Volgograd,1
+Chelyabinsk,1
+Magnetiogorsk,1
+Nizhnevartovsk,1
+Perm,1
+Surgut,1
+Ashkhabad,1
+Krasnovodsk,1
+Chardzhou,1
+Dushanbe,1
+Bukhara,1
+Samarkand,1
+Bryansk,1
+Tver,1
+Voronezh,1
+Syktyvkar,1
+Orenburg,1
+Ahmedabad,1
+Akola,1
+Aurangabad,1
+Mumbai,1
+Bilaspur,1
+Bhuj,1
+Belgaum,1
+Baroda,1
+Bhopal,1
+Bhaunagar,1
+Daman,1
+Deesa,1
+Guna,1
+Goa,1
+Indore,1
+Jabalpur,1
+Jamnagar,1
+Kandla,1
+Khajuraho,1
+Kolhapur,1
+Keshod,1
+Nagpur,1
+Nasik Road,1
+Pune,1
+Porbandar,1
+Rajkot,1
+Raipur,1
+Sholapur,1
+Surat,1
+Udaipur,1
+Anuradhapura,1
+Batticaloa,1
+Galoya,1
+Jaffna,1
+Trinciomalee,1
+Kompong Chnang,1
+Phnom-penh,1
+Siem-reap,1
+Stung Treng,1
+Along,1
+Agartala,1
+Aizwal,1
+Baghdogra,1
+Bokaro,1
+Bhubaneswar,1
+Kolkata,1
+Cooch-behar,1
+Dhanbad,1
+Gaya,1
+Hirakud,1
+Imphal,1
+Jharsuguda,1
+Jamshedpur,1
+Jorhat,1
+Kailashahar,1
+Silchar,1
+Lilabari,1
+Mohanbari,1
+Mazuffarpur,1
+Nawapara,1
+Panagarh,1
+Patina,1
+Purnea,1
+Ranchi,1
+Rourkela,1
+Utkela,1
+Vishakhapatnam,1
+Zero,1
+Cox's Bazar,1
+Chittagong,1
+Ishurdi,1
+Jessore,1
+Rajshahi,1
+Saidpur,1
+Sylhet Osmani,1
+Sek Kong,1
+Agra,1
+Allahabad,1
+Amritsar,1
+Bikaner,1
+Bakshi Ka Talab,1
+Varanasi,1
+Kulu,1
+Bhatinda,1
+Bhiwani,1
+Bareilly,1
+Chandigarh,1
+Dehra Dun,1
+Gwalior,1
+Hissar,1
+Jhansi,1
+Jodhpur,1
+Jaipur,1
+Jaisalmer,1
+Jammu,1
+Kota,1
+Ludhiaha,1
+Leh,1
+Lucknow,1
+Pathankot,1
+Patiala,1
+Nainital,1
+Raibarelli,1
+Saharanpur,1
+Srinagar,1
+Satna,1
+Luang Prabang,1
+Pakse,1
+Phong Savanh,1
+Savannakhet,1
+Sam Neua,1
+Vientiane,1
+Macau,1
+Bhairawa,1
+Janakpur,1
+Kathmandu,1
+Pokhara,1
+Simara,1
+Biratnagar,1
+Agatti Island,1
+Bellary,1
+Bidar,1
+Vijayawada,1
+Coimbatore,1
+Calicut,1
+Cuddapah,1
+Carnicobar,1
+Dundigul,1
+Madurai,1
+Mangalore,1
+Madras,1
+Nagarjunsagar,1
+Port Blair,1
+Pendicherry,1
+Rajahmundry,1
+Tanjore,1
+Tirupeti,1
+Tiruchirappalli,1
+Trivandrum,1
+Tambaram,1
+Thimphu,1
+Male,1
+Nakhon Pathom,1
+Lop Buri,1
+Pattaya,1
+Prachin Buri,1
+Lampang,1
+Phrae,1
+Prachuap Khiri Khan,1
+Phitsanulok,1
+Satun,1
+Narathiwat,1
+Krabi,1
+Songkhla,1
+Pattani,1
+Ko Samui,1
+Phuket,1
+Ranong,1
+Hat Yai,1
+Trang,1
+Udon Thani,1
+Sakon Nakhon,1
+Surin,1
+Loei,1
+Danang,1
+Kep,1
+Nhatrang,1
+Hue,1
+Phuquoc,1
+Ho Chi Minh City,1
+Ann,1
+Anisakan,1
+Coco Island,1
+Heho,1
+Hommalin,1
+Kengtung,1
+Kyaukpyu,1
+Lashio,1
+Lanywa,1
+Mandalay,1
+Myeik,1
+Myitkyina,1
+Momeik,1
+Mong Hsat,1
+Nampong,1
+Namsang,1
+Hpa-an,1
+Putao,1
+Pyay,1
+Shante,1
+Sittwe,1
+Thandwe,1
+Tachilek,1
+Taungoo,1
+Yangon,1
+Ujung Pandang,1
+Biak,1
+Nabire,1
+Timika,1
+Jayapura,1
+Wamena,1
+Merauke,1
+Gorontalo,1
+Palu,1
+Manado,1
+Poso,1
+Morotai Island,1
+Ternate,1
+Luwuk,1
+Ambon,1
+Fak Fak,1
+Kaimana,1
+Babo,1
+Manokwari,1
+Sorong,1
+Bintulu,1
+Kuching,1
+Limbang,1
+Marudi,1
+Miri,1
+Sibu,1
+Lahad Datu,1
+Kota Kinabalu,1
+Labuan,1
+Tawau,1
+Bandar Seri Begawan,1
+Pekanbaru,1
+Dumai,1
+Gunung Sitoli,1
+Padang Sidempuan,1
+Sibolga,1
+Nangapinoh,1
+Ketapang,1
+Pontianak,1
+Jambi,1
+Bengkulu,1
+Palembang,1
+Rengat,1
+Lhok Sukon,1
+Banda Aceh,1
+Kluang,1
+Alor Setar,1
+Butterworth,1
+Kota Bahru,1
+Kuantan,1
+Kerteh,1
+Simpang,1
+Ipoh,1
+Johor Bahru,1
+Langkawi,1
+Malacca,1
+Kuala Terengganu,1
+Penang,1
+Suai,1
+Dili,1
+Baucau,1
+Sembawang,1
+Paya Lebar,1
+Tengah,1
+Alice Springs,1
+Coolangatta,1
+Cairns,1
+Charlieville,1
+Mount Isa,1
+Maroochydore,1
+Mackay,1
+Prosserpine,1
+Rockhampton,1
+Townsville,1
+Weipa,1
+Avalon,1
+Albury,1
+East Sale,1
+Launceston,1
+Point Cook,1
+Karratha,1
+Kalgoorlie,1
+Kununurra,1
+Learmonth,1
+Port Hedland,1
+Woomera,1
+Christmas Island,1
+Canberra,1
+Coff's Harbour,1
+Dubbo,1
+Norfolk Island,1
+Tamworth,1
+Wagga Wagga,1
+Hailar,1
+Tianjin,1
+Taiyuan,1
+Guangzhou,1
+Changcha,1
+Guilin,1
+Nanning,1
+Shenzhen,1
+Zhengzhou,1
+Wuhan,1
+Pyongyang,1
+Xi'an,1
+Ulan Bator,1
+Jinghonggasa,1
+Kunming,1
+Xiamen,1
+Nanchang,1
+Fuzhou,1
+Hangzhou,1
+Ninbo,1
+Nanjing,1
+Hefei,1
+Qingdao,1
+Yantai,1
+Chongqing,1
+Guiyang,1
+Chengdu,1
+Xichang,1
+Kashi,1
+Hotan,1
+Urumqi,1
+Harbin,1
+Mudanjiang,1
+Dalian,1
+Tioman,1
+Wajima,1
+Barter Island,1
+Cape Lisburne,1
+Point Lay,1
+Hilo,1
+Bettles,1
+Clear Mews,1
+Indian Mountains,1
+Fort Yukon,1
+Sparrevohn,1
+Fort Richardson,1
+Tatalina,1
+Cape Romanzof,1
+St. Paul Island,1
+Cape Newenham,1
+Point Barrow,1
+Iliamna,1
+Port Moller,1
+Big Mountain,1
+Oscoda,1
+Fort Ord,1
+Fort Irwin,1
+Twenty Nine Palms,1
+Grants,1
+Ponca City,1
+Hunter Aaf,1
+Pine Bluff,1
+Milton,1
+Hana,1
+Prescott,1
+Boston,1
+Fairfield,1
+Wendover,1
+Oakland,1
+Kahului,1
+Harrison,1
+Bangor,1
+Hollywood,1
+San Francisco,1
+Cutbank,1
+Louisiana,1
+Delta Junction,1
+Annette Island,1
+Caribou,1
+Redstone,1
+Fort Bragg,1
+Dalhart,1
+Anniston,1
+Dover,1
+Fort Meade,1
+China Lake,1
+Huron,1
+Juneau,1
+Newark,1
+Boise,1
+Indian Springs,1
+Garden City,1
+Wahiawa,1
+Robinson,1
+Fort Carson,1
+Helena,1
+Miramar,1
+Mary Esther,1
+Hawthorne,1
+Houlton,1
+Enid,1
+Point Mugu,1
+Edwards Afb,1
+Lake Charles,1
+Kona,1
+Myrtle Beach,1
+Lemoore,1
+Nantucket,1
+Fort Eustis,1
+Hopkinsville,1
+Patuxent River,1
+Palacios,1
+Blytheville,1
+Atlantic City,1
+Elizabeth City,1
+Pueblo,1
+Presque Isle,1
+Fort Lewis,1
+Kodiak,1
+Opolu,1
+Muskogee,1
+International Falls,1
+Childress,1
+Biloxi,1
+Fort Benning,1
+Kingsville,1
+Fort Riley,1
+Kamuela,1
+Massena,1
+Hickory,1
+Millinocket,1
+Camp Springs,1
+Winston-salem,1
+Victorville,1
+Fort Drum,1
+Port Huron,1
+Bakersfield,1
+Harlingen,1
+Red River,1
+Buckley,1
+Northway,1
+Palmer,1
+Barrow,1
+Whidbey Island,1
+Alice,1
+Chattanooga,1
+Galveston,1
+Long Beach,1
+Williamsport,1
+Knobnoster,1
+White Plains,1
+West Hampton Beach,1
+Jonesboro,1
+Yuma,1
+Duluth,1
+Bethel,1
+Fort Huachuca,1
+Lihue,1
+Terre Haute,1
+Havre,1
+Grant County Airport,1
+Montpelier,1
+San Nicolas Island,1
+Cordova,1
+Savannah,1
+Nome,1
+Conroe,1
+Deadhorse,1
+Coco Beach,1
+Teterboro,1
+Raleigh-durham,1
+Kenai,1
+Mcalester,1
+Niagara Falls,1
+Bryan,1
+Wright,1
+Newport News,1
+Altus,1
+Kankakee,1
+Goldsboro,1
+Providence,1
+Salisbury,1
+Rancho Murieta,1
+Burbank,1
+Pembina,1
+Fort Polk,1
+Hibbing,1
+Lufkin,1
+Green Bay,1
+Wrightstown,1
+Cherry Point,1
+Bush Field,1
+Williston,1
+Little Rock,1
+Newburgh,1
+Baudette,1
+Homer,1
+Fort Leonardwood,1
+Marietta,1
+Houghton Lake,1
+Dallas-Fort Worth,1
+Gwinn,1
+Fort Hood,1
+Millville,1
+Wichita Falls,1
+Grand Rapids,1
+Wink,1
+Fresno,1
+Vero Beach,1
+Imperial,1
+Laredo,1
+Kotzebue,1
+Altoona,1
+Tallahassee,1
+West Chicago,1
+Fort Knox,1
+San Angelo,1
+Calexico,1
+Chico,1
+College Station,1
+Ogdensburg,1
+Falmouth,1
+Honolulu,1
+Des Moines,1
+New Bern,1
+Sumter,1
+Greenvile,1
+Roswell,1
+Brownsville,1
+Dothan,1
+Wildwood,1
+Fallon,1
+Mount Clemens,1
+Farmington,1
+Syracuse,1
+Hobbs,1
+Sioux City,1
+Truth Or Consequences,1
+Palmdale,1
+El Centro,1
+Fort Sill,1
+Galena,1
+Chandler,1
+Mineral Wells,1
+Texarkana,1
+Plattsburgh,1
+Tucumcari,1
+Killeen,1
+Zuni Pueblo,1
+Bellingham,1
+Millington,1
+Elkins,1
+Hartford,1
+Smithfield,1
+Mountain View,1
+Barking Sands,1
+Deridder,1
+Bradshaw Field,1
+Belleville,1
+King Salmon,1
+Muir,1
+Lahania-kapalua,1
+Homestead,1
+Fort Leavenworth,1
+Wallops Island,1
+Willow Grove,1
+Cheyenne,1
+Stockton,1
+Reno,1
+Ketchikan,1
+Lakehurst,1
+Shemya,1
+Modesto,1
+Colorado Springs,1
+Buffalo,1
+Sandusky,1
+Everett,1
+Cedar City,1
+Windsor Locks,1
+Mcallen,1
+Chicopee Falls,1
+Lubbock,1
+Boca Raton,1
+Quantico,1
+Kaneohe Bay,1
+Gulkana,1
+Amarillo,1
+Fort Dodge,1
+Cotulla,1
+Baton Rouge,1
+Tyler,1
+Lanai,1
+White Sands,1
+Sitka,1
+Islip,1
+Minneapolis,1
+Unalaska,1
+Valdez,1
+Colombus,1
+Kendall-tamiami,1
+Oceana,1
+Maturin,1
+Casper,1
+Valparaiso,1
+Selma,1
+Charlotte,1
+Great Falls,1
+Youngstown,1
+Mackminnville,1
+Naha,1
+Masamba,1
+Soroako,1
+Kendari,1
+Sabang,1
+Tasikmalaya,1
+Madiun,1
+Malang,1
+Tangerang,1
+Bandung,1
+Cirebon,1
+Yogyakarta,1
+Cilacap,1
+Semarang,1
+Batam,1
+Tanjung Pandan,1
+Pangkal Pinang,1
+Tanjung Pinang,1
+Singkep,1
+Banjarmasin,1
+Batu Licin,1
+Pangkalan Bun,1
+Palangkaraya,1
+Maumere,1
+Ende,1
+Ruteng,1
+Kupang,1
+Labuhan Bajo,1
+Balikpapan,1
+Taraken,1
+Samarinda,1
+Tanjung Santan,1
+Mataram,1
+Bima,1
+Waingapu,1
+Surabaya,1
+Solo City,1
+Chiang Mai,1
+Chiang Rai,1
+Nakhon Phanom,1
+Ubon Ratchathani,1
+Khon Kaen,1
+Sukhothai,1
+Denpasar,1
+Nadzab,1
+Port Moresby,1
+Kobe,1
+Pullman,1
+Wewak,1
+Elmira,1
+Ithaca,1
+Monterey,1
+Daytona Beach,1
+Liepaja,1
+Riga,1
+Siauliai,1
+Barysiai,1
+Narssarssuaq,1
+Palanga,1
+Vilnius,1
+Panevezys,1
+Napuka,1
+Stepanavan,1
+Gyumri,1
+Assab,1
+Asmara,1
+Massawa,1
+Gaza,1
+Batumi,1
+Kutaisi,1
+Tbilisi,1
+Mukalla,1
+Taiz,1
+Hodeidah,1
+Aden,1
+Ataq,1
+Al Ghaidah Intl,1
+Sanaa,1
+Beihan,1
+Socotra,1
+Al Badie,1
+Memmingen,1
+Nevsehir,1
+Erbil,1
+Emerald,1
+Tagbilaran,1
+Ilulissat,1
+Qasigiannguit,1
+Aasiaat,1
+Palma de Mallorca,1
+Darwin,1
+Surat Thani,1
+Talkeetna,1
+Gozo,1
+New Haven,1
+Asheville,1
+Greensboro,1
+Sioux Falls,1
+Uluru,1
+Manchester NH,1
+Redang,1
+Charlottesville VA,1
+Roanoke VA,1
+Lexington KY,1
+Evansville,1
+Goroka,1
+Bozeman,1
+Billings,1
+Butte,1
+Traverse City,1
+Bar Harbor,1
+Rockland,1
+Jacksn Hole,1
+Rockford,1
+Sanya,1
+Milford Sound,1
+Lijiang,1
+Sondrestrom,1
+Thule,1
+Gulfport,1
+Kalamazoo,1
+Akureyri,1
+Fort Wayne,1
+Egilsstadir,1
+Cedar Rapids,1
+La Crosse,1
+Wassau,1
+Peoria,1
+Appleton,1
+Champaign,1
+Manhattan,1
+Kingscote,1
+Hervey Bay,1
+Dali,1
+Mulu,1
+Sharm El Sheikh,1
+Franklin,1
+Seronera,1
+Hofn,1
+Armidale,1
+Grand Junction,1
+Saint George,1
+Port O\'Connor,1
+Sarasota,1
+Bermuda,1
+Van Nuys,1
+Moline,1
+Honiara,1
+Papeete,1
+Nauru,1
+Funafuti,1
+Husavik,1
+Samsoe,1
+Phon Savan,1
+Bismarck,1
+Telluride,1
+Yinchuan,1
+Mae Hong Son,1
+Flint,1
+Davao,1
+Funchal,1
+Santarem,1
+Isafjordur,1
+Ekati,1
+NAPIER,1
+Levuka,1
+Lhasa,1
+Redding,1
+Eugene,1
+Idaho Falls,1
+Medford,1
+Kaikoura,1
+Redmond-Bend,1
+Picton,1
+Keflavik,1
+Jinan,1
+Changzhou,1
+Yibin,1
+Tyumen,1
+Patreksfjordur,1
+PARKERSBURG,1
+MONTGOMERY,1
+BRISTOL,1
+PADUCAH,1
+Djibouti,1
+Haikou,1
+Mafia Island,1
+Page,1
+Utila,1
+Kalispell,1
+Saginaw,1
+Binghamton,1
+Baghdad,1
+Nan,1
+Buri Ram,1
+Trat,1
+Blythe,1
+Al Asad,1
+Al Taqaddum,1
+Al Bakr,1
+Angeles City,1
+Sandakan,1
+Luang Namtha,1
+Muang Xay,1
+Reykjavik,1
+Geralds,1
+Siglufjordur,1
+Luoyang,1
+Xuzhou,1
+Magwe,1
+Khamti,1
+Dalat,1
+Rach Gia,1
+Ca Mau,1
+Chu Lai,1
+Tuy Hoa,1
+Pai,1
+Brac,1
+Conakry,1
+Aachen,1
+Karlsruhe/Baden-Baden,1
+Sanford,1
+Johnstown,1
+Lukla,1
+Bhojpur,1
+Lamidanda,1
+Jomsom,1
+Manang,1
+Phaplu,1
+Rumjatar,1
+Dang,1
+Rukumkot,1
+Jumla,1
+Taplejung,1
+Tumling Tar,1
+Surkhet,1
+Simikot,1
+Dolpa,1
+Bajhang,1
+Dhangarhi,1
+Muan,1
+Astypalaia,1
+Ikaria,1
+Kalymnos,1
+Milos,1
+Cyclades Islands,1
+Paros,1
+Kastelorizo,1
+Marsa Alam,1
+Weeze,1
+Busuanga,1
+Butuan,1
+Dipolog,1
+Laoag,1
+Legazpi,1
+Ozamis,1
+Cebu,1
+Norden,1
+Juist,1
+Porto Seguro,1
+Iguatu,1
+Palmas,1
+Caldas Novas,1
+Missoula,1
+Blackall,1
+Bundaberg,1
+Grand Canyon,1
+Sugar Land,1
+Hayman Island,1
+Fort Stockton,1
+La Junta,1
+Las Cruces,1
+Breckenridge,1
+Temple,1
+Ozona,1
+Kaadedhdhoo,1
+Aklavik,1
+Deline,1
+Tulita,1
+Fort Good Hope,1
+Tanna,1
+Paulatuk,1
+Saba,1
+Vail,1
+Stokmarknes,1
+Richmond Heights,1
+Mansfield,1
+Lawton,1
+Fort Collins,1
+Flagstaff,1
+South Lake Tahoe,1
+Twin Falls,1
+Vineyard Haven MA,1
+Concord NH,1
+Groton CT,1
+Saint Cloud,1
+Columbus Mississippi,1
+Nizhniy Novgorod,1
+Hoquiam,1
+Erie,1
+Barnstable,1
+Sedona,1
+Morgantown,1
+Vestmannaeyjar,1
+Bemidji,1
+Biloela,1
+Apia,1
+Ballina Byron Bay,1
+Fargo,1
+Ratanakiri,1
+Gillette,1
+Tomsk,1
+Chumphon,1
+Jiuzhaigou,1
+Shantou,1
+Enghien-moisselles,1
+Ciudad del Este,1
+Kaieteur,1
+Dunhuang,1
+Ancona,1
+Copiapo,1
+Taba,1
+Little Cayman,1
+Tabarka,1
+State College Pennsylvania,1
+Broome,1
+Bakki,1
+Klagenfurt,1
+Hammerfest,1
+Honningsvag,1
+Mehamn,1
+Vadsø,1
+Tehran,1
+Mashhad,1
+Ust Ilimsk,1
+Sault Sainte Marie,1
+Cortez,1
+Hayden,1
+Gallup,1
+Liberal,1
+Lamar,1
+Goodland,1
+Cody,1
+Orsta-Volda,1
+ST MARY\'S,1
+Narvik,1
+Berlevag,1
+Norilsk,1
+Anapa,1
+Joplin,1
+Allentown,1
+MACHADINHO D'OESTE,1
+Atyrau,1
+Kzyl-Orda,1
+South Bend,1
+St. Anthony,1
+Saratov,1
+Novy Urengoy,1
+Noyabrsk,1
+Aktau,1
+Ukhta,1
+Usinsk,1
+Pechora,1
+Naryan-Mar,1
+Pskov,1
+Kogalym,1
+Tofino,1
+Karaganda,1
+Uraj,1
+Ivanovo,1
+Changchun,1
+Niigata,1
+Johnston Island,1
+Fort Wayne IN,1
+Arcata CA,1
+Jacksonville NC,1
+Tuscaloosa AL,1
+Dubuque IA,1
+Atoifi,1
+Auki,1
+Ballalae,1
+Fera Island,1
+Mbambanakira,1
+Kirakira,1
+Santa Cruz/Graciosa Bay/Luova,1
+Munda,1
+Gizo,1
+Stirling Island,1
+Rennell Island,1
+Marau,1
+Suavanao,1
+Kagau Island,1
+Ramata,1
+Buka Island,1
+Kundiawa,1
+Daru,1
+Gurney,1
+Girua,1
+Hoskins,1
+Kiunga,1
+Kikori,1
+Kerema,1
+Kavieng,1
+Mendi,1
+Momote,1
+Moro,1
+Misima Island,1
+Tari,1
+Tabubil,1
+Tokua,1
+Vanimo,1
+Wapenamanda,1
+Alluitsup Paa,1
+Neerlerit Inaat,1
+Paamiut,1
+Qeqertarsuaq Airport,1
+Qaqortoq,1
+Maniitsoq,1
+Nanortalik,1
+Narsaq,1
+Qaanaaq,1
+Sisimiut,1
+Upernavik,1
+Pelly Bay,1
+Grímsey,1
+Thorshofn,1
+Vopnafjörður,1
+Whistler,1
+Anahim Lake,1
+Williams Harbour,1
+St. Lewis,1
+Port Hope Simpson,1
+Rigolet,1
+Colville Lake,1
+Whatì,1
+Summer Beaver,1
+Angling Lake,1
+Wunnumin Lake,1
+North Spirit Lake,1
+Bearskin Lake,1
+Kingfisher Lake,1
+Ogoki Post,1
+Poplar Hill,1
+Chisasibi,1
+Tête-à-la-Baleine,1
+La Tabatière,1
+Cat Lake,1
+Fort Frances,1
+Kasabonika,1
+Kangirsuk,1
+Attawapiskat,1
+Lac Du Bonnet,1
+Uranium City,1
+Lourdes-De-Blanc-Sablon,1
+Cartwright,1
+Chesterfield Inlet,1
+Nain,1
+Fort Severn,1
+Fort Albany,1
+Fort Hope,1
+Makkovik,1
+Texada,1
+Gods Lake Narrows,1
+Igloolik,1
+Kuujjuarapik,1
+Gillam,1
+Grise Fiord,1
+Quaqtaq,1
+Nemiscau,1
+Hopedale,1
+Chevery,1
+Ivujivik,1
+Island Lake,1
+Akulivik,1
+Waskaganish,1
+Aupaluk,1
+Kimmirut,1
+Lansdowne House,1
+Baie Comeau,1
+Kangiqsualujjuaq,1
+Mary's Harbour,1
+Chibougamau,1
+Umiujaq,1
+Wemindji,1
+Norway House,1
+Points North Landing,1
+Oxford House,1
+Inukjuak,1
+Pikangikum,1
+Peawanuck,1
+Powell River,1
+The Pas,1
+Nakina,1
+Gamètì,1
+Red Lake,1
+Stony Rapids,1
+Sanikiluaq,1
+St. Theresa Point,1
+Big Trout Lake,1
+Webequie,1
+Whale Cove,1
+Salluit,1
+York Landing,1
+Ilford,1
+Bagotville,1
+Eastmain River,1
+Fond-Du-Lac,1
+Gods River,1
+Swan River,1
+Kashechewan,1
+Muskrat Dam,1
+Masset,1
+Sachigo Lake,1
+Round Lake,1
+Sandy Lake,1
+Shamattawa,1
+Churchill Falls,1
+Wollaston Lake,1
+Batna,1
+Béchar,1
+Bordj Badji Mokhtar,1
+Guemar,1
+Kumasi,1
+Heringsdorf,1
+Büsum,1
+Helgoland,1
+Seinäjoki / Ilmajoki,1
+Nottingham,1
+"Doncaster, Sheffield",1
+Campbeltown,1
+Eday,1
+Fair Isle,1
+North Ronaldsay,1
+Papa Westray,1
+Stronsay,1
+Sanday,1
+Lerwick,1
+Westray,1
+Land's End,1
+Penzance,1
+Angelsey,1
+Barra,1
+Dongloe,1
+Leixlip,1
+Sindal,1
+Leknes,1
+Namsos,1
+Mo i Rana,1
+Rørvik,1
+Røst,1
+Sandane,1
+Sogndal,1
+Svolvær,1
+Sorkjosen,1
+Vardø,1
+Værøy,1
+Bydgoszcz,1
+Lodz,1
+Östersund,1
+Hagfors,1
+Karlstad,1
+Torsby,1
+Ängelholm,1
+Mohed,1
+Hemavan,1
+Ventspils,1
+Mpumalanga,1
+Malamala,1
+Mafeking,1
+Ghanzi,1
+Orapa,1
+Shakawe,1
+Tuli Lodge,1
+Loubomo,1
+Chipata,1
+Solwesi,1
+Antsalova,1
+Ankavandra,1
+Belo sur Tsiribihina,1
+Maintirano,1
+Morafenobe,1
+Tambohorano,1
+Tsiroanomandidy,1
+Ambatondrazaka,1
+Port Bergé,1
+Ambanja,1
+Soalala,1
+Mampikony,1
+Tsaratanana,1
+Mandritsara,1
+Manja,1
+Catumbela,1
+Dundo,1
+Ondjiva,1
+Mocamedes,1
+Koulamoutou,1
+Mouila,1
+Tchibanga,1
+Chimoio,1
+Sarh,1
+Club Makokola,1
+Luderitz,1
+Ondangwa,1
+Oranjemund,1
+Swakopmund,1
+Boma,1
+Matadi,1
+Inongo,1
+Nioki,1
+Kiri,1
+Basankusu,1
+Tshikapa,1
+Lodja,1
+Ilebo,1
+La Gomera,1
+Bonthe,1
+Bo,1
+Kenema,1
+Bissau,1
+Smara,1
+Dakhla,1
+Essadouira,1
+El Aaiún,1
+El Aroui,1
+"Praia, Santiago Island",1
+"Sao Filipe, Fogo Island",1
+Baco,1
+Beica,1
+Dessie,1
+Dembidollo,1
+Gode,1
+Gore,1
+Kabri Dehar,1
+Mizan Teferi,1
+Tippi,1
+Alula,1
+Bosaso,1
+Mogadishu,1
+Galcaio,1
+Burao,1
+El Arish,1
+Asyut,1
+Amboseli National Park,1
+Lokichoggio,1
+Malindi,1
+Nanyuki,1
+Sirt,1
+Tobruk,1
+Al Bayda',1
+Atbara,1
+Nyala,1
+Port Sudan,1
+Bukoba,1
+Kigoma,1
+Lindi,1
+Musoma,1
+Shinyanga,1
+Tabora,1
+Arua,1
+Gulu,1
+Diu,1
+Walla Walla,1
+Alpena,1
+Bradford,1
+Scottsbluff,1
+Beckley,1
+Baker Lake,1
+Crescent City,1
+Cape Girardeau,1
+Sault Ste Marie,1
+Clarksburg,1
+Hancock,1
+Dodge City,1
+Du Bois,1
+Eau Claire,1
+Elko,1
+New Bedford,1
+Grand Island,1
+Hot Springs,1
+Huntington,1
+Kili Island,1
+Kirksville,1
+Campbell River,1
+Laramie,1
+Latrobe,1
+North Platte,1
+Lebanon,1
+Klamath Falls,1
+Brandon,1
+Lewistown,1
+Lynchburg,1
+Muskegon,1
+Miles City,1
+Muscle Shoals,1
+North Bend,1
+Owensboro,1
+Hattiesburg/Laurel,1
+Pocatello,1
+Pierre,1
+Pellston,1
+Cambridge Bay,1
+Reading,1
+Rhinelander,1
+Rock Springs,1
+Rutland,1
+San Luis Obispo,1
+Sheridan,1
+Saranac Lake,1
+Salina,1
+Castlegar,1
+Tupelo,1
+Quincy,1
+Worland,1
+Yakima,1
+Nicosia,1
+Logroño-Agoncillo,1
+Île d'Yeu,1
+Angers/Marcé,1
+La Môle,1
+Syros Island,1
+Pécs-Pogány,1
+Győr,1
+Sármellék,1
+Aosta,1
+Salerno,1
+Corvo,1
+Banja Luka,1
+Usak,1
+Kars,1
+Chatham,1
+Kahramanmaras,1
+Agri,1
+Adiyaman,1
+Balikesir Korfez,1
+Samsun,1
+Žilina,1
+Middle Caicos,1
+Salt Cay,1
+La Isabela,1
+Puerto Barrios,1
+Quezaltenango,1
+Utirik Island,1
+Ahuas,1
+Puerto Lempira,1
+Mili Island,1
+Celaya,1
+Ciudad Constitución,1
+Guerrero Negro,1
+Jalapa,1
+Chitré,1
+Colón,1
+Jaqué,1
+La Palma,1
+Roxana,1
+Pococi,1
+Charlo,1
+Nandayure,1
+Puerto Jimenez,1
+Playa Samara,1
+Jeremie,1
+Port-de-Paix,1
+Cayo Coco,1
+Andros,1
+Arthur's Town,1
+Cat Island,1
+Colonel Hill,1
+Atiu Island,1
+Mangaia Island,1
+Manihiki Island,1
+Mauke Island,1
+Mitiaro Island,1
+Penrhyn Island,1
+Cicia,1
+Malolo Lailai Island,1
+Vunisea,1
+Mana Island,1
+Moala,1
+Ngau,1
+Lakeba Island,1
+Lambasa,1
+Matei,1
+Koro Island,1
+Rotuma,1
+Savusavu,1
+Eua Island,1
+Lifuka,1
+"Angaha, Niuafo'ou Island",1
+Niuatoputapu,1
+Vanua Balavu,1
+Alofi,1
+Coppermine,1
+Savaii Island,1
+Apataki,1
+Ahe,1
+Hiva-oa,1
+Ua Pou,1
+Ua Huka,1
+Ablow,1
+Sola,1
+Loh/Linua,1
+Sangafa,1
+Craig Cove,1
+Longana,1
+Pentecost Island,1
+Paama Island,1
+Lamap,1
+Lamen Bay,1
+Maewo Island,1
+Lonorore,1
+Norsup,1
+Gaua Island,1
+Redcliffe,1
+Santo,1
+Tongoa Island,1
+Ambryn Island,1
+Valesdir,1
+Malekula Island,1
+Olpoi,1
+Anelghowhat,1
+Aniwa,1
+Dillon's Bay,1
+Ipota,1
+Tiga,1
+Waala,1
+Île des Pins,1
+Faizabad,1
+Dawadmi,1
+Al-Jawf,1
+Wadi-al-dawasir,1
+Khorram Abad,1
+Bam,1
+Rafsanjan,1
+Bojnourd,1
+Sabzevar,1
+Noshahr,1
+Dasht-e-naz,1
+Lar,1
+Ardabil,1
+Uromiyeh,1
+Al Ain,1
+Bannu,1
+Bahawalpur,1
+Chitral,1
+Dalbandin,1
+Dera Ghazi Khan,1
+Dera Ismael Khan,1
+Jiwani,1
+Khuzdar,1
+Ormara Raik,1
+Parachinar,1
+Skardu,1
+Sehwan Sharif,1
+Turbat,1
+Sulaymaniyah,1
+Kamishly,1
+Sayun Intl,1
+Adak Island,1
+Gustavus,1
+Skagway,1
+Holy Cross,1
+Haines,1
+Kalskag,1
+Mcgrath,1
+Mountain Village,1
+Aniak,1
+Chevak,1
+Wrangell,1
+Eniwetok Atoll,1
+Coronation,1
+Hengchun,1
+Kushiro,1
+Saga,1
+Iwami,1
+Fukushima,1
+Odate Noshiro,1
+Shonai,1
+Miyakejima,1
+Kunsan,1
+Mokpo,1
+Wonju,1
+Sokcho / Gangneung,1
+Sacheon,1
+Chongju,1
+Olongapo City,1
+Cuyo,1
+General Santos City,1
+Camiguin,1
+Jolo,1
+Sanga Sanga,1
+Sangley Point,1
+Tandag,1
+Naga,1
+Basco,1
+Tuguegarao,1
+Virac,1
+Calbayog City,1
+Catarman,1
+Masbate,1
+Roxas City,1
+Tartagal,1
+Las Heras,1
+San Antonio Oeste,1
+Gobernador Gregores,1
+Santa Teresita,1
+Necochea,1
+Juazeiro Do Norte,1
+Lençóis,1
+Macaé,1
+Marília,1
+Vitória Da Conquista,1
+El Salvador,1
+Pucon,1
+Sorocaba,1
+San Cristóbal,1
+La Toma (Catamayo),1
+Esmeraldas,1
+Stanley,1
+Cartago,1
+Garzón,1
+Puerto Leguízamo,1
+La Pedrera,1
+Nuquí,1
+Puerto Inírida,1
+Yopal,1
+Guayaramerín,1
+Puerto Rico/Manuripi,1
+Riberalta,1
+Reyes,1
+San Borja,1
+Paramaribo,1
+Mucuri,1
+Caballococha,1
+Cajamarca,1
+Huánuco,1
+Nazca,1
+Maldonado,1
+Maracay,1
+El Vigía,1
+Ji-Paraná,1
+Codrington,1
+Grande Anse,1
+St-François,1
+Grand Bourg,1
+Charlestown,1
+Spanish Town,1
+Bequia,1
+Union Island,1
+Kokshetau,1
+Petropavlosk,1
+Zhezkazgan,1
+Ust Kamenogorsk,1
+Kostanay,1
+Ganja,1
+Nakhchivan,1
+Neryungri,1
+Yakutia,1
+Chokurdah,1
+Cherskiy,1
+Tiksi,1
+Chilliwack,1
+Anadyr,1
+Okhotsk,1
+Ujae Atoll,1
+Mariupol International,1
+Lugansk,1
+Zaporozhye,1
+Krivoy Rog,1
+Kharkov,1
+Ivano-Frankivsk,1
+Chernovtsk,1
+Rivne,1
+Uzhgorod,1
+Solovetsky Islands,1
+Cherepovets,1
+Amderma,1
+Kotlas,1
+Clyde River,1
+Hrodna,1
+Mogilev,1
+Yeniseysk,1
+Kyzyl,1
+Novokuznetsk,1
+Khatanga,1
+Igarka,1
+Grozny,1
+Nalchik,1
+Beslan,1
+Elista,1
+Aleknagik,1
+Bluefield,1
+Pasco,1
+Akutan,1
+Lopez,1
+Salekhard,1
+Khanty-Mansiysk,1
+Nyagan,1
+Sovetskiy,1
+Izhevsk,1
+Kirov,1
+Nadym,1
+Raduzhnyi,1
+Nefteyugansk,1
+Kurgan,1
+Khudzhand,1
+Andizhan,1
+Fergana,1
+Namangan,1
+Nukus,1
+Urgench,1
+Khanabad,1
+Termez,1
+Rybinsk,1
+Belgorod,1
+Kursk,1
+Lipetsk,1
+Vorkuta,1
+Bugulma,1
+Yoshkar-Ola,1
+Cheboksary,1
+Coral Harbour,1
+Orsk,1
+Penza,1
+Saransk,1
+Balakovo,1
+Hubli,1
+Koggala,1
+Wirawila,1
+Battambang,1
+Shillong,1
+Guwahati,1
+Dimapur,1
+Tezpur,1
+Barisal,1
+Huay Xai,1
+Bharatpur,1
+Chandragarhi,1
+Meghauli,1
+Nepalgunj,1
+Gan Island,1
+Haa Dhaalu Atoll,1
+Laamu Atoll,1
+Buonmethuot,1
+Haiphong,1
+Nha Trang,1
+Conson,1
+Can Tho,1
+Dienbienphu,1
+Phucat,1
+Pleiku,1
+Vinh,1
+Banmaw,1
+Dawei,1
+Kawthoung,1
+Loikaw,1
+Mawlamyine,1
+Pathein,1
+Pakhokku,1
+Sumbawa Island,1
+Waikabubak-Sumba Island,1
+Bokondini-Papua Island,1
+Senggeh-Papua Island,1
+Tanjung Selor-Borneo Island,1
+Datadawai-Borneo Island,1
+Tanjung Redep-Borneo Island,1
+Tanjung-Borneo Island,1
+Sampit-Borneo Island,1
+Langgur-Kei Islands,1
+Alor Island,1
+Belaga,1
+Long Datih,1
+Long Seridan,1
+Mukah,1
+Bakalalan,1
+Lawas,1
+Bario,1
+Tomanggong,1
+Kudat,1
+Bandar Lampung-Sumatra Island,1
+Ranai-Natuna Besar Island,1
+Putussibau-Borneo Island,1
+Sintang-Borneo Island,1
+Talang Gudang-Sumatra Island,1
+Lhok Seumawe-Sumatra Island,1
+Pangkor Island,1
+Long Bawan-Borneo Island,1
+Nunukan-Nunukan Island,1
+Long Apung-Borneo Island,1
+Dawson,1
+Aurukun,1
+Barcaldine,1
+Badu Island,1
+Birdsville,1
+Broken Hill,1
+Hamilton Island,1
+Bedourie,1
+Bourke,1
+Burketown,1
+Boigu,1
+Oakey,1
+Boulia,1
+Blackwater,1
+Carnarvon,1
+Cobar,1
+Coober Pedy,1
+Coconut Island,1
+Cloncurry,1
+Ceduna,1
+Cooktown,1
+Cunnamulla,1
+Coonamble,1
+Coen,1
+Cooma,1
+Doomadgee,1
+Darnley Island,1
+Devonport,1
+Elcho Island,1
+Esperance,1
+Flinders Island,1
+Gladstone,1
+Groote Eylandt,1
+Griffith,1
+Horn Island,1
+Hooker Creek,1
+Mount Hotham,1
+Hughenden,1
+Julia Creek,1
+Kalbarri,1
+King Island,1
+Kalkgurung,1
+Karumba,1
+Kowanyama,1
+Kubin,1
+Leonora,1
+Lake Evella,1
+Lord Howe Island,1
+Lockhart River,1
+Lismore,1
+Lightning Ridge,1
+Longreach,1
+Leinster,1
+Burwash,1
+Mabuiag Island,1
+Meekatharra,1
+Merimbula,1
+Milingimbi,1
+Maningrida,1
+McArthur River Mine,1
+Mildura,1
+Mount Magnet,1
+Moree,1
+Moranbah,1
+Moruya,1
+Mount Gambier,1
+Mornington Island,1
+Murray Island,1
+Maryborough,1
+Narrandera,1
+Narrabri,1
+Normanton,1
+Newman,1
+Olympic Dam,1
+Palm Island,1
+Paraburdoo,1
+Cocos Keeling Island,1
+Gove,1
+Parkes,1
+Port Lincoln,1
+Pormpuraaw,1
+Port Macquarie,1
+Quilpie,1
+Ramingining,1
+Roma,1
+St George,1
+Shark Bay,1
+Saibai Island,1
+Strahan,1
+Thargomindah,1
+Tennant Creek,1
+Victoria River Downs,1
+Sue Islet,1
+Windorah,1
+Whyalla,1
+Wiluna,1
+Wollongong,1
+Winton,1
+Burnie,1
+Yorke Island,1
+Yam Island,1
+Chifeng,1
+Changzhi,1
+Datong,1
+Hohhot,1
+Baotou,1
+Shijiazhuang,1
+Tongliao,1
+Ulanhot,1
+Xilinhot,1
+Beihai,1
+Changde,1
+Dayong,1
+Meixian,1
+Zhuhai,1
+Liuzhou,1
+Zhanjiang,1
+Enshi,1
+Nanyang,1
+Xiangfan,1
+Yichang,1
+Ankang,1
+Golmud,1
+Hanzhong,1
+Qingyang,1
+Xining,1
+Yan'an,1
+Yulin,1
+Arvaikheer,1
+Altai,1
+Bayankhongor,1
+Dalanzadgad,1
+Khovd,1
+Muren,1
+Shangri-La,1
+Luxi,1
+Simao,1
+Zhaotong,1
+Ganzhou,1
+Jingdezhen,1
+Jiujiang,1
+Quzhou,1
+Lianyungang,1
+Huangyan,1
+Linyi,1
+Quanzhou,1
+Dease Lake,1
+Weifang,1
+Weihai,1
+Wuxi,1
+Wuyishan,1
+Wenzhou,1
+Yancheng,1
+Yiwu,1
+Zhoushan,1
+Bangda,1
+Dazhou,1
+Guangyuan,1
+Luzhou,1
+Mianyang,1
+Nanchong,1
+Nyingchi,1
+Wanxian,1
+Aksu,1
+Qiemo,1
+Kuqa,1
+Korla,1
+Karamay,1
+Yining,1
+Heihe,1
+Jiamusi,1
+Jinzhou,1
+Qiqihar,1
+Yanji,1
+Waikoloa Village,1
+Mount Keith,1
+Los Roques,1
+Inis Mor,1
+Indreabhan,1
+Ruegen,1
+Berezovo,1
+Worcester,1
+Anqing,1
+Qinhuangdao,1
+Yuncheng,1
+Jiayuguan,1
+Dongsheng,1
+Bremerton,1
+Spencer,1
+Jefferson City,1
+Tannheim,1
+Unst,1
+Pagerungan,1
+Provincetown,1
+Seria,1
+Gustavia,1
+Dauphin,1
+Sukhumi,1
+Tambow,1
+North Connel,1
+Erechim,1
+Prangins,1
+Courcheval,1
+Fullerton,1
+Dawson Creek,1
+Isle Of Wight,1
+Navoi,1
+Andernos-Les-Bains,1
+Nauen,1
+Setif,1
+Hailey,1
+Yverdon-Les-Bains,1
+Bielsko-Biala,1
+Mason City,1
+Eskimo Point,1
+Saul,1
+Lake Tekapo,1
+Niederoeblarn,1
+Bad Voeslau,1
+Uetersen,1
+Anaktuvuk Pass,1
+Anvik,1
+Atqasuk,1
+Gambell,1
+Hooper Bay,1
+Kaltag,1
+St Mary's,1
+Kivalina,1
+Mekoryuk,1
+Ruby,1
+Shishmaref,1
+Savoonga,1
+Noatak,1
+Ormoc City,1
+Puvirnituq,1
+Tasiujaq,1
+Arctic Village,1
+Imo,1
+La Fortuna/San Carlos,1
+Cauayan,1
+Apatity,1
+Governador Valadares,1
+Port Clarence,1
+Pajala,1
+Bella Coola,1
+Hagerstown,1
+Gorakhpur,1
+Sand Point,1
+Hami,1
+Wuzhou,1
+Maragheh,1
+Gorgan,1
+Ilam,1
+Parsabad,1
+Tocache,1
+Tacheng,1
+Mardin,1
+Zarafshan,1
+Deering,1
+Burgos,1
+Sege,1
+Shahre Kord,1
+Kangra,1
+Nanded,1
+Shimla,1
+Igiugig,1
+New Stuyahok,1
+King Cove,1
+Port Heiden,1
+Togiak Village,1
+Geneina,1
+Long Akah,1
+Walaha,1
+Chaoyang,1
+Samburu South,1
+Brus Laguna,1
+Bonaventure,1
+Sialkot,1
+Punta del Este,1
+Walvis Bay,1
+Mpacha,1
+Eskissehir,1
+Canakkale,1
+Mus,1
+Estevan,1
+Çorlu,1
+Yenisehir,1
+Les Saintes,1
+Kalemyo,1
+Vieques Island,1
+St-Augustin,1
+Edson,1
+Gasan,1
+Grafton,1
+Taree,1
+Choibalsan,1
+Hohenems,1
+Hellwege,1
+Krems,1
+Escanaba,1
+Yakutat,1
+Goulburn,1
+Cessnock,1
+Scone,1
+Mudgee,1
+Maitland,1
+Culebra Island,1
+Raron,1
+Amlikon,1
+Lommis,1
+Marion,1
+Bamburi,1
+Fraser Island,1
+Finsterwalde,1
+Kirkuk,1
+Claris,1
+Iron Mountain,1
+Marquette,1
+Allakaket,1
+Dinslaken,1
+Hoexter Holzminden,1
+Niijima,1
+Michigan City,1
+Seward,1
+Grand Marais,1
+Wausau,1
+Kalundborg,1
+Mary,1
+Bungle Bungle,1
+Sazena,1
+Spray View,1
+Myvatn,1
+Sabadell,1
+Airlie Beach,1
+Muncie,1
+Kenosha,1
+Montrose CO,1
+Riverton WY,1
+Pendleton,1
+Lympne,1
+Porto Heli,1
+Zell am See,1
+Katherine,1
+Nowra,1
+Lutsk,1
+Chernigov,1
+Ternopol,1
+Oshkosh,1
+Harlesiel,1
+Wangerooge,1
+Bendigo,1
+Wenatchee,1
+Arecibo,1
+Ringi Cove,1
+Kirensk,1
+Ust-Kut,1
+Rimatara,1
+Triengen,1
+Lausanne,1
+Fehraltorf,1
+Locarno,1
+Neuchatel,1
+Taganrog,1
+Gelendzhik,1
+Ramenskoe,1
+Sredniiy,1
+Yaroslavl,1
+Mohe County,1
+Jining,1
+Puntarenas,1
+Inuvik,1
+Iqaluit,1
+Kyauktu,1
+Jan Mayen,1
+Bokepyin,1
+Manzhouli,1
+Wuhai,1
+Gary,1
+Brainerd,1
+Lewisburg,1
+Chefornak,1
+Oxnard,1
+Tongren,1
+Niau,1
+Scotia NY,1
+Nizhnekamsk,1
+Volkel,1
+Siargao,1
+Langeoog,1
+Biel,1
+Nelspruit,1
+Cherkassy,1
+St. Augustine Airport,1
+Nikolayev,1
+Ramechhap,1
+Kissimmee,1
+Lake City,1
+DeLand,1
+Green Cove Springs,1
+Logan,1
+Brigham City,1
+Malad City,1
+Aspen,1
+Kerrville,1
+Birrfeld,1
+Prince Rupert,1
+Great Bend,1
+Hays,1
+Fredericton,1
+Grand Rapids MN,1
+Thief River Falls,1
+Eagle River,1
+Minocqua - Woodruff,1
+Ankeny,1
+Berens River,1
+Catalina Island,1
+Mojave,1
+Interlaken,1
+Inisheer,1
+Strezhevoy,1
+Hutchinson,1
+Al Kharj,1
+Rosecrans,1
+Papa,1
+Forestville,1
+Camp Douglas,1
+Gunnison,1
+Xi\'AN,1
+Torrance,1
+Manistee,1
+Punta Gorda,1
+Frenchville,1
+Mont-Tremblant,1
+Somerset,1
+Weyers Cave,1
+Devils Lake,1
+Dickinson,1
+Flin Flon,1
+Chadron,1
+Alliance,1
+McCook,1
+Fort Resolution,1
+Glendive,1
+Wolf Point,1
+West Yellowstone,1
+Alamosa,1
+Moab,1
+Vernal,1
+Ruidoso,1
+Show Low,1
+McCall,1
+Salmon,1
+Mammoth Lakes,1
+Friday Harbor,1
+Eastsound,1
+Astoria,1
+Newport,1
+Emmonak,1
+Unalakleet,1
+Kuparuk,1
+Shageluk,1
+Nuiqsut,1
+Eek,1
+Kasigluk,1
+Kwethluk,1
+Kwigillingok,1
+Fort Simpson,1
+Russian Mission,1
+Koliganek,1
+Manokotak,1
+Chalkyitsik,1
+Eagle,1
+Hughes,1
+Huslia,1
+Nulato,1
+Venetie,1
+Beaver,1
+Central,1
+Shungnak,1
+Inyokern,1
+Visalia,1
+Colonia,1
+Goodyear,1
+La Grande Riviere,1
+Ballera,1
+Gatton,1
+Arkalyk,1
+Kirchheim-Teck,1
+Angoon,1
+Elfin Cove,1
+Funter Bay,1
+Hoonah,1
+Kake,1
+Metakatla,1
+Hydaburg,1
+Egegik,1
+Perryville,1
+Pilot Point,1
+South Naknek,1
+Akhiok,1
+Karluk,1
+Larsen Bay,1
+Ambler,1
+Buckland,1
+Kiana,1
+Kobuk,1
+Noorvik,1
+Selawik,1
+Brevig Mission,1
+Elim,1
+Golovin,1
+Teller,1
+Wales,1
+White Mountain,1
+Koyuk,1
+St. Michael,1
+Shaktoolik,1
+Tin City,1
+Atka,1
+Nikolski,1
+Yakataga,1
+Alakanuk,1
+Kipnuk,1
+False Pass,1
+Nelson Lagoon,1
+Gaspe,1
+Quinhagak,1
+Kotlik,1
+Koyukuk,1
+Scammon Bay,1
+Nondalton,1
+Kongiganak,1
+Nikolai,1
+Akiak,1
+Wainwright,1
+ZAPALA,1
+Rincon de los Sauces,1
+Puerto Natales,1
+Sierra Grande,1
+Ingeniero Jacobacci,1
+Chenega,1
+Iles De La Madeleine,1
+Circle,1
+Sleetmute,1
+Healy,1
+Lake Minchumina,1
+Manley Hot Springs,1
+Natuashish,1
+Postville,1
+Kangiqsujuaq,1
+Alma,1
+Havre-Saint-Pierre,1
+Rimouski,1
+Tadoule Lake,1
+Lac Brochet,1
+South Indian Lake,1
+Brochet,1
+Little Grand Rapids,1
+Cross Lake,1
+Red Sucker Lake,1
+Rainbow Lake,1
+Bonnyville,1
+Ganges,1
+Fort St. James,1
+Boundary Bay,1
+Langley Township,1
+Bella Bella,1
+Wekweeti,1
+Guasave,1
+Cabo San Lucas,1
+Corn Island,1
+Bonanza,1
+Rosita,1
+Siuna,1
+Waspam,1
+Carrillo,1
+Constanza,1
+Negril,1
+Ceiba,1
+Charlotte Amalie,1
+Alto Rio Senguer,1
+Jose de San Martin,1
+Uyuni,1
+Abaiang Atoll,1
+Afobaka,1
+Alapadu,1
+Albina,1
+Anapaike,1
+Apetina,1
+Drietabbetje,1
+Kabalebo,1
+Kayser,1
+Kwamelasemoetoe,1
+Moengo,1
+Nieuw Nickerie,1
+Paloemeu,1
+Sarakreek,1
+Sipaliwini,1
+Stoelmans Eiland,1
+Totness,1
+Wageningen,1
+Orinduik,1
+Annai,1
+Apoteri,1
+Imbaimadai,1
+Kamarang,1
+Mabaruma,1
+Mahdia,1
+Pedro Juan Caballero,1
+Acandi,1
+Saravena,1
+Batagay,1
+Villa Garzon,1
+El Bagre,1
+Caucasia,1
+Condoto,1
+Tolu,1
+Cabo Frio,1
+Gurupi,1
+Santana do Araguaia,1
+Breves,1
+Soure,1
+Parintins,1
+Barreiras,1
+Santa Terezinha,1
+Minacu,1
+Araguaina,1
+Novo Aripuana,1
+Lucas do Rio Verde,1
+Franca,1
+Dourados,1
+Labrea,1
+Rondonopolis,1
+Guarapuava,1
+Joacaba,1
+Rio Verde,1
+Araxa,1
+Maues,1
+Borba,1
+Coari,1
+Barcelos,1
+Diamantino,1
+Guanambi,1
+Djelfa,1
+Nzagi,1
+Lucapa,1
+Am Timan,1
+Sharq Al-Owainat,1
+Martinsburg,1
+Awasa,1
+Jijiga,1
+Mekane Selam,1
+Debre Marqos,1
+Debre Tabor,1
+Debre Zeyit,1
+Goba,1
+Mayumba,1
+Masai Mara,1
+Meru National Park,1
+Rumbek,1
+Yei,1
+Ecuvillens,1
+Inhaca,1
+Matam,1
+Bird Island,1
+Wadi Halfa,1
+Kidepo,1
+Kitgum,1
+Pakuba,1
+Sveagruva,1
+Ny-Alesund,1
+Hatay,1
+Kihnu,1
+Ruhnu,1
+Raivavae,1
+Lleida,1
+Ouessant,1
+Bildudalur,1
+Gjogur,1
+Saudarkrokur,1
+Selfoss,1
+Inishmaan,1
+Taldykorgan,1
+Olgii,1
+Kurgan Tyube,1
+Vologda,1
+Evensk,1
+Olenyok,1
+Saskylakh,1
+Nizhneangarsk,1
+Vanavara,1
+Aykhal,1
+Baykit,1
+Biysk,1
+Huesca,1
+Ciudad Real,1
+Najaf,1
+Colonsay,1
+Rock Hill,1
+Tresco,1
+Tarin Kowt,1
+Zaranj,1
+Chaghcharan,1
+Fuyang,1
+Longyan,1
+Xingyi,1
+Liping,1
+Stepanakert,1
+Addison,1
+Destin,1
+Kherson,1
+Stewart Island,1
+Assumption Island,1
+Zhijiang,1
+Yarmouth,1
+Kinston,1
+Kill Devil Hills,1
+Maturaca,1
+Parauapebas,1
+Alcantara,1
+Anambas Islands,1
+Wuerzburg,1
+Aveiro,1
+Hopsten,1
+Khalije Fars,1
+Yasuj,1
+Mosul,1
+Toyooka,1
+Amakusa,1
+Kikai,1
+Aguni,1
+Uliastai,1
+Bulgan,1
+Ulaangom,1
+Borongan,1
+Lubang,1
+Kulyab,1
+Dasoguz,1
+Hudson Bay,1
+Walgett,1
+Bathurst Island,1
+Dunk Island,1
+Lizard Island,1
+Halls Creek,1
+Fitzroy Crossing,1
+Ravensthorpe,1
+Budd Coast,1
+Provo,1
+Steamboat Springs,1
+Delta,1
+Richfield,1
+Price,1
+Los Alamos,1
+Lake Havasu City,1
+Winslow,1
+Marakei,1
+Abemama,1
+Buariki,1
+Kuria,1
+Arorae,1
+Tamana,1
+Beru Island,1
+Nikunau,1
+Butaritari,1
+Makin,1
+Maiana,1
+Nonouti,1
+Tabiteuea,1
+Whitianga,1
+Takaka,1
+Afutara,1
+Ulawa,1
+Choiseul Bay,1
+Yandina,1
+Bartow,1
+Fiti\'uta,1
+Livermore,1
+Mariposa,1
+Grootfontein,1
+Rundu,1
+Angmagssalik,1
+Santa Monica,1
+Scottsdale,1
+Olympia,1
+Davis-Woodland-Winters,1
+Rifle,1
+SARATOGA,1
+Stuart,1
+Dryden,1
+Napa,1
+Wangen-Lachen,1
+Pahokee,1
+San Bernardino,1
+Valenca,1
+Caruaru,1
+Wake island,1
+Nova Iguacu,1
+Courtelary ,1
+Koszalin,1
+Okavango Delta,1
+Rocky Mount,1
+Whittier,1
+Soldotna,1
+El Cajon,1
+San Clemente Island,1
+Phan Rang,1
+Son-La,1
+Truckee,1
+Frejus,1
+Geelong,1
+Mezen,1
+Tulln,1
+Dell,1
+Livingston-Montana,1
+Big Timber,1
+Holland,1
+Tallinn,1
+Linkenheim,1
+Monument Valley,1
+Hilversum,1
+Texel,1
+Das i Fontanals de Cerdanya,1
+Lakeland,1
+Stary Oskol,1
+Syangboche,1
+Murrieta-Temecula,1
+Oristano,1
+Maidenhead,1
+Mysore,1
+Port Clinton,1
+Findley,1
+Penneshaw,1
+Ebenhofen,1
+Kempten,1
+Wycombe,1
+Bembridge,1
+Waterville,1
+Spearfish-South Dakota,1
+Knokke,1
+Rothwell,1
+Gdynia,1
+Malbork,1
+Lask,1
+Miroslawiec,1
+Olive Branch,1
+Vina del Mar,1
+Brampton,1
+Zonguldak,1
+Broomfield-CO,1
+Tunica,1
+Batken,1
+Kasaba Bay,1
+Lindau,1
+Hoogeveen,1
+Deventer,1
+Ameland,1
+Saint-Cyr,1
+Janesville,1
+Mantsonyane,1
+Holman Island,1
+Lawrenceville,1
+Bowling Green,1
+Minhad AB,1
+Kirovograd,1
+Roitzschjora,1
+Dabaa City,1
+Bryce Canyon,1
+Shchyolkovo,1
+Tengchong,1
+Sevastopol,1
+Deurne,1
+Camp Bastion,1
+Gjoa Haven,1
+Easton,1
+Hamar,1
+Frya,1
+Yuba City,1
+Phillip Island,1
+Duncan,1
+Hay River,1
+Lockport,1
+Ocean Reef Club Airport,1
+Strasbourg Neudorf,1
+Nannhausen,1
+Yushu,1
+Oshawa,1
+Recklinghausen,1
+Farila,1
+Lahr,1
+Monywa,1
+South Aari Atoll,1
+Cooinda,1
+Jabiru,1
+Regensburg,1
+Smyrna,1
+Sewanee,1
+Shiquanhe,1
+Cochstedt,1
+DALLAS,1
+Chicago-Wheeling,1
+Kelso,1
+Benesov,1
+Bougouni,1
+Tureia,1
+Ross Island,1
+Keekorok,1
+Puerto Obaldia,1
+Kerch,1
+Ukunda,1
+Casa Grande,1
+Buckeye,1
+Gila Bend,1
+Sterling,1
+Rawlins,1
+Mackenzie British Columbia,1
+Caldwell,1
+Kaiser Lake Ozark,1
+Thomasville,1
+Henderson,1
+Tifton,1
+Landshut,1
+Itzehoe,1
+RADOM,1
+Phoenix ,1
+Golden,1
+Revelstoke,1
+Farmingdale,1
+Allstedt,1
+Curico,1
+Peine,1
+Hondo,1
+Zhongwei,1
+Atikokan,1
+Prospect Creek,1
+Khwai River,1
+Welzow,1
+Wheeling,1
+Fitzgerald,1
+Ye,1
+Isla San Felix,1
+Shaybah,1
+Rockport,1
+Okaukuejo,1
+Mokuti Lodge,1
+Rotenburg Wuemme,1
+Wipperfuerth,1
+Osnabrueck,1
+Ballenstedt,1
+Hasenmoor,1
+Ganderkesee,1
+Nienburg Weser,1
+Damme,1
+Duelmen,1
+Obermehler,1
+Hodenhagen,1
+Grube,1
+Toender,1
+Uelzen,1
+Hamm,1
+Luesse,1
+Bad Oeynhausen,1
+Brilon,1
+Bad Pyrmont,1
+Koethen,1
+Sankt Michaelisdonn,1
+Salzgitter,1
+Karlshoefen,1
+Oldenburg,1
+Rinteln,1
+Muenster,1
+Sankt Peter-Ording,1
+Luechow,1
+Scharlibbe,1
+Burg,1
+Cordele,1
+Ormond Beach,1
+Bad Neuenahr,1
+Bad Duerkheim,1
+Troutdale,1
+Leverkusen,1
+Wershofen,1
+Khost,1
+Bend,1
+Christmas Valley,1
+Burns,1
+Prineville,1
+Red Bluff,1
+Novato,1
+Lakeview,1
+Tillamook,1
+The Dalles,1
+Gaithersburg,1
+Sharona,1
+Pembroke,1
+Tsumeb,1
+Suffield,1
+BLUMENAU,1
+Charelvoix,1
+Mykines,1
+Cornwall,1
+Bosschenhoofd,1
+St.Stephan,1
+Juiz de Fora,1
+Brasov,1
+Pond Inlet,1
+Morrisville,1
+Como,1
+Washington County,1
+Block Island,1
+Nightmute,1
+Toksook Bay,1
+Ittoqqortoormiit,1
+Vinnitsa,1
+Bainbridge,1
+La Romaine,1
+Kegaska,1
+Black Tickle,1
+Silver Springs,1
+Madera,1
+Trail,1
+Patricia Bay,1
+Arctic Bay,1
+Belmopan,1
+Grand-Santi,1
+Maripasoula,1
+Saint-Laurent-du-Maroni,1
+Burqin,1
+Capurgana,1
+Sohag,1
+Rivera,1
+Patos de Minas,1
+Ourilandia do Norte,1
+Redencao,1
+Sao Felix do Xingu,1
+Bointo,1
+Sao Felix do Araguaia,1
+Cacador,1
+Carauari,1
+Porto Urucu,1
+Eirunepe,1
+Francisco Beltrao,1
+Confresa,1
+Apalachicola,1
+Umuarama,1
+Diamantina,1
+Fonte Boa,1
+Sao Paulo de Olivenca,1
+Humaita,1
+Santa Isabel do Rio Negro,1
+Una,1
+Telfer,1
+Alanya,1
+Fort Pierce,1
+Taunton,1
+North Kingstown,1
+Norwood,1
+Westfield,1
+Willimantic,1
+St. Jean,1
+Danbury,1
+Nashua,1
+Schefferville,1
+Fitchburg,1
+Villa Rica,1
+Cartersville,1
+Centre,1
+Gadsden,1
+Winder,1
+Sylvania,1
+Dalton,1
+Carrollton,1
+LaGrange,1
+Milledgeville,1
+Pine Mountain,1
+New Philadelpha,1
+Darlington,1
+Hilton Head Island,1
+Morganton,1
+Pikeville,1
+Locust Grove,1
+Toccoa,1
+Shaftesbury,1
+Poltava,1
+Aweil,1
+Wau,1
+Humera,1
+Moyale,1
+Zagora,1
+Yengema,1
+Gbangbatok,1
+Turukhansk,1
+Bor,1
+East Troy,1
+Kolpashevo,1
+Renmark,1
+Leigh Creek,1
+Warburton Community,1
+Cunderdin,1
+Rottnest Island,1
+Forrest,1
+Ballarat,1
+Keewaywin,1
+Hearst,1
+Hornepayne,1
+Kirkland Lake,1
+Manitouwadge,1
+Wawa,1
+Manitowaning,1
+Slate Falls,1
+Collingwood,1
+Brantford,1
+Pompano Beach,1
+Mallacoota,1
+Alabaster,1
+Yuendumu ,1
+Carefree,1
+Praya,1
+One Hundred Mile House,1
+108 Mile Ranch,1
+Yarram,1
+Handan,1
+Fredericksburg,1
+Jixi,1
+Seogwipo,1
+Gimli,1
+Matheson Island,1
+Tura,1
+Beloyarsky,1
+Racine,1
+Taytay,1
+Gera,1
+Saint-Petersburg,1
+Arnhem,1
+Redlands,1
+TELGTE,1
+Gulf Shores,1
+Isabela,1
+Balzers,1
+Punitz-Guessing,1
+Khmeinitskiy,1
+Yalata,1
+Hazleton,1
+Cumberland,1
+Wyndham,1
+Bob Quinn Lake,1
+Kaluga,1
+Lone Rock,1
+Phillips,1
+Joliet,1
+Furstenwalde,1
+Eberswalde,1
+Connellsville,1
+Okeechobee,1
+Sebring,1
+Avon Park,1
+Winter Haven,1
+Zephyrhills,1
+Ocala,1
+Jesup,1
+Newnan,1
+Thomson,1
+Aiken,1
+Lumberton,1
+Pinehurst-Southern Pines,1
+Rockingham,1
+Baraboo,1
+Statesville,1
+Lock Haven,1
+Zelienople,1
+Lorain-Elyria,1
+Dunkirk,1
+Mount Holly,1
+Angola,1
+Van Wert,1
+Batavia,1
+Clearwater,1
+Forties Alpha,1
+Kindersley,1
+Saarmund,1
+North Myrtle Beach,1
+Ramona,1
+Pont Sur Yonne,1
+St Florentin Cheu,1
+Saulieu,1
+Olten,1
+Buochs,1
+Quinto,1
+Lodrino,1
+Roudnice nad Lebem,1
+Usti Nad Labem,1
+Mauterndorf,1
+Notsch Im Gailtal,1
+Karlsruhe,1
+Weinheim,1
+Meaux,1
+Chateau-Thierry,1
+Coldwater,1
+Wilkes-Barre,1
+Willoughby,1
+Taoyuan,1
+Bayannur,1
+Chapleau,1
+Inowroclaw,1
+Pruszcz Gdansk,1
+Tomah,1
+Marco Island Airport,1
+Drummond Island,1
+Gladwin,1
+South Haven,1
+Wisconsin Rapids,1
+Meadow Lake,1
+Beverly,1
+Nagaur,1
+Trois Rivieres,1
+Poplar Bluff,1
+Somerville,1
+Eastport,1
+Keokuk,1
+Caernarfon,1
+Grefrath,1
+St. Paul,1
+Soderhamn,1
+Saravane,1
+Segeletz,1
+Segovia,1
+Akeno,1
+Ust Kamchatsk,1
+Oconomowoc,1
+Kozyrevsk,1
+Dikson,1
+Mine Site,1
+Bantry,1
+Aliwal North,1
+Alkantpan,1
+Alldays,1
+Barberton,1
+Bungoma,1
+Bura,1
+Busia,1
+Embu,1
+Garba Tula,1
+Garissa,1
+Hola,1
+Homa Bay,1
+Isiolo,1
+Kericho,1
+Kilaguni,1
+Antsirabe,1
+Bekily,1
+Ust-Tsylma,1
+Gorno-Altaysk,1
+Fond du Lac,1
+Waupaca,1
+Stevens Point,1
+Mys Shmidta,1
+Honuu,1
+Newberry,1
+Peenemunde,1
+Goraszka,1
+Nusawiru,1
+Galion,1
+Tiputini,1
+Pastaza,1
+Lloydminster,1
+Coatesville,1
+Lashkar Gah,1
+Lankaran,1
+Qabala,1
+Zaqatala,1
+Lake Placid,1
+Alert,1
+Hamhung,1
+Beaver Falls,1
+Renton,1
+La Verne,1
+Cross City,1
+Clemson,1
+Calhoun,1
+Cornelia,1
+Rhinebeck,1
+Duxford,1
+Great Keppel Island,1
+Roper Bar,1
+Mount Garnet,1
+Innisfail,1
+Kapolei,1
+Bamyan,1
+Moomba,1
+East Tawas,1
+Kelowna,1
+Anoka,1
+San Juan Bautista,1
+Maamigili,1
+Yongzhou,1
+Mali Losinj,1
+Onslow,1
+Theodore,1
+Williamson,1
+Fairoaks,1
+Boulder,1
+Neustadt-Glewe,1
+GOETSENHOVEN,1
+Wildenrath,1
+Bremgarten,1
+Birburg,1
+Palo Alto,1
+Ust-Nera,1
+Vysoke Myto,1
+Spa,1
+Cooldige,1
+Cottonwood,1
+Namur,1
+Hasselt,1
+Wickenburg,1
+Yangzhou,1
+Pontiac,1
+Kissidougou,1
+Keene,1
+Kawama,1
+Kooddoo,1
+Rio Hondo,1
+Keetmanshoop,1
+Kangding,1
+Iowa City,1
+Turpan,1
+Morro de Sao Paulo,1
+Windom,1
+Rothera Research Station,1
+Sortavala,1
+Annapolis,1
+Cuamba,1
+Bodaibo,1
+Mayo,1
+Paluknys,1
+Mattala,1
+Pecos,1
+Hattiesburg,1
+Botucatu,1
+Anapolis,1
+Sao Carlos,1
+Yankton,1
+Sir Bani Yas Island,1
+Bromont,1
+Beccles,1
+Kratie,1
+Caldera,1
+San Pedro de Atacama,1
+Copacabana,1
+Guyuan,1
+Brawdy,1
+Changhai,1
+Redhill,1
+Chinchilla,1
+Moose Jaw,1
+Motueka,1
+Shute Harbour,1
+Ann Arbor,1
+Shepparton,1
+Temora,1
+Gayndah,1
+Wilcannia,1
+Ivanhoe,1
+Menindee,1
+Pooncarie,1
+Tilpa,1
+Reichenbach im Kandertal,1
+Bijie,1
+Lensk,1
+Kavalerovo,1
+Velikiye Luki,1
+Kodinsk,1
+Lake Macquarie,1
+Brampton Island,1
+Alameda,1
+Endelage,1
+St. Johann in Tirol,1
+Thalmaessing,1
+Fort Mcmurray,1
+Braganca Paulista,1
+Brusselton,1
+Srednekolymsk,1
+Inverell,1
+Glen Innes,1
+Ansbach,1
+Immokalee ,1
+Sulawesi Tenggara,1
+Cambria,1
+Yichun,1
+Kasongo,1
+McMurdo Station,1
+Klatovy,1
+Sheboygan,1
+Cloudbreak,1
+Kangel Danda,1
+Bajura,1
+Chara,1
+Herning,1
+Schleissheim,1
+Marana,1
+Glendale,1
+Safford,1
+Verden,1
+Nittenau,1
+Kerama,1
+Americana,1
+Ekibastuz,1
+Adamovka,1
+Kvarkeno,1
+Sikeston,1
+Tetiaroa,1
+Queensbury,1
+Ballston Spa,1
+Crystal River,1
+Fostoria,1
+Fryeburg,1
+Placida,1
+Coeur d'Alene,1
+Moosonee,1
+Coonabarabran,1
+Titusville,1
+Bumi Hills,1
+Warnervale Airport,1
+Bouarfa,1
+NYERI,1
+Eden Prairie,1
+Likoma Island,1
+Sigiriya,1
+Neumuenster,1
+Barrie-Orillia,1
+Markham,1
+Haliburton,1
+Lindsay,1
+Saint Catherines,1
+Edenvale,1
+Orillia,1
+Holland Landing,1
+Parry Sound,1
+Hanover,1
+West Goshen Township,1
+Manassas,1
+Angleton,1
+Bubovice,1
+Rakkestad,1
+Kastamonu,1
+Elstree,1
+Sandtoft,1
+Torit,1
+Shelbyville,1
+Lvliang,1
+Daocheng,1
+Xiahe city,1
+Vangso,1
+Comiso,1
+Enumclaw,1
+Markovo,1
+Seymchan,1
+Zyryanka,1
+Susuman,1
+Ust-Maya,1
+Aldan,1
+Olekminsk,1
+Vitim,1
+Pellworm,1
+Xinyuan,1
+Belfort,1
+Winnsboro,1
+Obock,1
+Tadjoura,1
+Santa Cruz des Quiche,1
+Nordfjordur,1
+Bursa,1
+Waris-Papua Island,1
+Newton,1
+La Ferte Alais,1
+Bairnsdale,1
+Fort Bridger,1
+Prosser,1
+Chehalis,1
+Mattawa,1
+Evanston,1
+Sabetha,1
+Americus,1
+Eufala,1
+Saluda,1
+Manteo,1
+Auburn,1
+Endicott,1
+Bessemer,1
+Ellicott,1
+Crystal,1
+Quitman,1
+Pukarua,1
+Kabale,1
+Marigot,1
+Corvallis,1
+Tuzla,1
+Saint Denis,1
+Prominent Hill,1
+Chatsworth,1
+Coral Bay,1
+Poteau,1
+Shelton,1
+Napakiak,1
+Napaskiak,1
+Bedwell Harbour,1
+Popham,1
+Liberty,1
+Walker's Cay,1
+Black Point,1
+Bartica,1
+Doylestown,1
+Tingo Maria,1
+Tres Lagoas,1
+Cacoal,1
+Engelhard,1
+Castro,1
+Stillwater,1
+Okmulgee,1
+Cushing,1
+Winfield,1
+Maniwaki,1
+Ada,1
+Misquite,1
+Denton,1
+Lago Vista,1
+Brenham,1
+Lakeway,1
+Iraan,1
+ELLIOT LAKE,1
+North Wilkesboro,1
+Brookneal,1
+Yerbogachen,1
+Cheraw,1
+Wuchula,1
+Lilydale,1
+Beni Mellal,1
+Cizre,1
+Suntar,1
+Zouerat,1
+Asaba,1
+Uyo,1
+Kasama,1
+Mbeya,1
+Mpanda,1
+Songea,1
+Morogoro,1
+Anshan,1
+Natashquan,1
+Conway,1
+Yinchun,1
+Anshun,1
+Sikasso,1
+Tonghua,1
+Suzhou,1
+Shrewsbury,1
+Burton-on-Trent,1
+York,1
+Muara Teweh,1
+Mulia,1
+Bintuni,1
+Wasior,1
+Siborong-Borong,1
+Sinabang,1
+Nagan Raya,1
+Bau-Bau,1
+Kao,1
+Melonguane,1
+Sanggata,1
+Muara Bungo,1
+Selayar,1
+Illaga,1
+Oksibil,1
+Kokonau,1
+Clermont,1
+Warrnambool,1
+Asheboro,1
+Seosan,1
+Wallace,1
+Emporia,1
+El Monte,1
+Farah,1
+Pasighat,1
+Pineville,1
+Kramatorsk,1
+Kautokeino,1
+Marcq En Baroeul,1
+Kamsar,1
+Stinson,1
+Sallisaw,1
+El dorado springs,1
+Marfa,1
+Alpine,1
+Bubaque,1
+Chichen Itza,1
+Bunbury,1
+Upland,1
+Mount Sterling,1
+Gatineau,1
+Nappanee ,1
+Grove,1
+Mc Pherson,1
+Hartsville,1
+Chapel Hill,1
+San Cristobal de las Casas,1
+Dunnville,1
+Oak Island,1
+Atherton,1
+Bagdarin,1
+Rio Hato,1
+Vladimir,1
+Dedeben,1
+Mana Pools,1
+Pouso Alegre,1
+Divinopolis,1
+Eysk,1
+Berdyansk,1
+Erenhot,1
+Shobdon,1
+Chino,1
+Shin-kamigoto,1
+Odika,1
+Taketomi,1
+Cayo Santa Maria,1
+Tremblay-en-France,1
+Thun,1
+Lavrentiya,1
+Paso Robles,1
+Ulleung,1
+Kotka,1
+Half Moon Bay,1
+Hechi,1
+Kadina,1
+Coondewanna,1
+Guarapari,1
+Ubatuba,1
+Nasiriyah,1
+Ota,1
+Borroloola,1
+Elsenthal,1
+Newtownards,1
+Headcorn,1
+Panshanger,1
+Thurrock,1
+Stapleford,1
+Goodwood,1
+Omarama,1
+Haast,1
+Meschede,1
+Matagami,1
+Fuyuan,1
+Skuvoy,1
+Stora Dimun,1
+Frooba,1
+Roxboro,1
+Phinda,1
+Liupanshui,1
+Kaili,1
+Shennongjia,1
+Arxan,1
+Hengyang,1
+Wonsan,1
+Mestia,1
+Magas,1
+Talladega,1
+Mankato,1
+Anegada,1
+Old Crow,1
+Sylacauga,1
+Enterprise,1
+Alexander City,1
+Wadeye,1
+Pirlangimpi,1
+Stade,1
+Meriden,1
+Elliston,1
+Lucerne,1
+La Grand'Combe,1
+Wood Buffalo,1
+Canmore,1
+Krasnokamensk,1
+Ridgely,1
+New Castle,1
+Scott City,1
+Holdredge,1
+Pratt,1
+Baikonur,1
+Wahoo,1
+Cold Lake,1
+Sublette,1
+Council Bluffs,1
+Kokomo,1
+Neodesha,1
+Sutton,1
+Galesburg,1
+Guymon,1
+Meade,1
+Shell Knob,1
+Ulysses,1
+Independence,1
+Larned,1
+Lampasas,1
+Bay City,1
+Coffeyville,1
+Summit,1
+Greeley,1
+Oakley,1
+Fremont,1
+La Grande,1
+Szczytno-Szymany,1
+Mount Pocono,1
+Quakertown,1
+Banff,1
+Banning,1
+Giessen,1
+Norfolk  Nebraska,1
+Kotido,1
+Kampala,1
+Paracatu,1
+Conselheiro Lafaiete,1
+Janauba,1
+Teofilo Otoni,1
+Muriae,1
+Malbouhans,1
+Paraty,1
+Buzios,1
+Angra dos Reis,1
+Itaperuna,1
+Marica,1
+Resende,1
+Saquarema,1
+Drumheller,1
+Mwene-Ditu,1
+Kabinda,1
+Ikela,1
+Aripuana,1
+Juruena,1
+Juina,1
+Vila Rica,1
+Juara,1
+Caceres,1
+Chapada dos Guimaraes,1
+Tangara da Serra,1
+Canarana,1
+Vila Bela da Santissima Trindade ,1
+Bumba,1
+Sobral,1
+Arapiraca,1
+Floriano,1
+Picos,1
+Beni,1
+Boende,1
+Montauk,1
+Valparaiso IN,1
+DHARAVANDHOO,1
+Saumlaki,1
+Melo,1
+Paysandu,1
+Artigas ,1
+Murray Bridge,1
+Horsham,1
+Swan Hill,1
+Turtle Island,1
+Karimunjawa,1
+Kongolo,1
+Attopeu,1
+Kahemba,1
+Sao Miguel do Oeste,1
+Ludington,1
+Sohar,1
+Sindh,1
+Thamkharka,1
+Thimarafushi,1
+Ifuru,1
+Kieta,1
+Hakkari,1
+Jelenia Gora,1
+Jakar,1
+Toli-Toli,1
+Vuktyl,1
+Berezniki,1
+Tolhuin,1
+Tarko-Sale,1
+Camarillo - CA,1
+Leopoldsburg,1
+Moyogalpa,1
+Bole,1
+Fuyun,1
+Achinsk,1
+LINFEN,1
+Hinton,1
+Watsonville,1
+Gelephu,1
+Williamsburg,1
+Dulkaninna,1
+William Creek,1
+Siquijor,1
+Musselwhite Mine,1
+Rizhao,1
+Taroom,1
+Gelnhausen,1
+Aero,1
+Lauterbach-Wernges,1
+Aschaffenburg,1
+Squamish,1
+Reichelsheim,1
+Schoenstadt,1
+Lauenbrueck,1
+Huettenbusch,1
+Vsar,1
+La Grande-4,1
+Alert Bay,1
+Nipawin,1
+Centralia,1
+Blue River,1
+Chetwynd,1
+Ross River,1
+Dolbeau-St-Félicien,1
+Amos,1
+Goderich,1
+Hope,1
+Haines Junction,1
+Digby,1
+Fort Liard,1
+Key Lake,1
+Leaf Rapids,1
+Matane,1
+Charlevoix,1
+Nejanilini Lake,1
+Owen Sound,1
+Port Hawkesbury,1
+St Thomas,1
+Smiths Falls,1
+St Leonard,1
+Virden,1
+Vernon,1
+Beaver Creek,1
+Salmon Arm,1
+Kelsey,1
+Pukatawagan,1
+Jenpeg,1
+Thicket Portage,1
+Pikwitonei,1
+Poplar River,1
+Pincher Creek,1
+Stewart,1
+Ignace,1
+Neubrandenburg,1
+Bamberg,1
+Zerbst/Anhalt,1
+Spadeadam,1
+Kinloss,1
+Biała Podlaska,1
+Lębork,1
+Dęblin,1
+Leczyca,1
+High Level,1
+Tomaszów Mazowiecki,1
+Björkvik,1
+Ljungbyhed,1
+Daugavpils,1
+Jēkabpils,1
+Tukums,1
+Kėdainiai,1
+Lime Acres,1
+Sowa,1
+Sumbe,1
+Mangochi,1
+Arandis,1
+Mariental,1
+Beni Suef,1
+Jiyanklis,1
+Merowe,1
+Alton/St Louis,1
+Brady,1
+Bishop,1
+Baker City,1
+Big Piney,1
+Battle Creek,1
+Burley,1
+Charles City,1
+Chanute,1
+Crossville,1
+Fort Belvoir,1
+Daggett,1
+Deming,1
+Mercury,1
+Needles,1
+San Marcos,1
+Junction,1
+Monticello,1
+Lovelock,1
+Mobridge,1
+Mc Comb,1
+Carbondale/Murphysboro,1
+Eastover,1
+Mayport,1
+Orangeburg,1
+Ottumwa,1
+Fort Rucker/Ozark,1
+Pinedale,1
+Poughkeepsie,1
+New Richmond,1
+Russell,1
+Redwood Falls,1
+Sonora,1
+Benton,1
+Aurora,1
+Ukiah,1
+Valentine,1
+Winnemucca,1
+Woodward,1
+Cocoa Beach,1
+Groom Lake,1
+Zanesville,1
+Gjadër,1
+Kukës,1
+Kuçovë,1
+Vlorë,1
+Haskovo,1
+Gabrovnitsa,1
+Graf Ignatievo,1
+Dolna Mitropoliya,1
+Balchik,1
+Castellón de la Plana,1
+Teruel,1
+Blois/Le Breuil,1
+Trento (TN),1
+Alessandria,1
+Biella (BI),1
+Vercelli,1
+Casale Monferrato,1
+Varese,1
+Novi Ligure,1
+Sarzana (SP),1
+Câmpia Turzii,1
+Mărculeşti,1
+Cahul,1
+Tiraspol,1
+Batajnica,1
+Rubelsanto,1
+Comayagua,1
+Upala,1
+San Nicolás,1
+Pinar Del Rio,1
+Kangan,1
+Karaj,1
+Ahmed Al Jaber AB,1
+Rayak,1
+Mirpur Khas,1
+Kamra,1
+Shorkot,1
+Sargodha,1
+Qayyarah,1
+Tikrit,1
+Tall Afar,1
+Taji,1
+Al Cut,1
+Nenana,1
+Wasilla,1
+Gangshan,1
+Iwakuni,1
+Ie,1
+Surallah,1
+Villa Maria,1
+Barretos,1
+Taubaté,1
+Tocopilla,1
+Chañaral,1
+Talca,1
+Taltal,1
+Apiay,1
+Coveñas,1
+La Dorada,1
+Paz De Ariporo,1
+Tunja,1
+Tres Esquinas,1
+Marandúa,1
+Rioja,1
+Jaén,1
+Tamchy,1
+Kant,1
+Ayaguz,1
+Chelkar,1
+Kyzyl-Syr,1
+Vilyuisk,1
+Dzhermuk,1
+Prince Albert,1
+Omsukchan,1
+Chaybukha,1
+Keperveem,1
+Nikolayevsk-na-Amure Airport,1
+Palana,1
+Zheleznogorsk-Ilimsky,1
+Sarabuz,1
+Saki,1
+Dzhankoy,1
+Peace River,1
+Siversky,1
+Staraya Russa,1
+Baranavichi,1
+Babruisk,1
+Severo-Eniseysk,1
+Sharypovo,1
+Svetlogorsk,1
+Valek,1
+Maykop,1
+Dudinka,1
+Lukhovitsy,1
+Balabanovo,1
+Inta,1
+Izhma,1
+Zhigansk,1
+Buguruslan,1
+Polonnaruwa Town,1
+Durgapur,1
+Puttaparthi,1
+Meiktila,1
+Soltsy,1
+Kipelovo,1
+Kamyshin,1
+Smolensk,1
+Rtishchevo,1
+Alpha,1
+Deniliquin,1
+Forbes,1
+Morwell,1
+Sale,1
+West Wyalong,1
+Guanghua,1
+Shiyan,1
+Sunchon,1
+Mengnai,1
+Bengbu,1
+Rugao,1
+Wuhu,1
+Shanshan,1
+Yingkou,1
+Bogorodskoe,1
+Itapiranga,1
+Aguas Calientes,1
+Bressaucourt-Porrentruy,1
+Parakou,1
+Kandi,1
+Sokode,1
+Mango,1
+Arnbruck,1
+Aguachica,1
+Hermannsburg,1
+Pipalyatjara,1
+Areyonga,1
+Tracy,1
+Yuelamu,1
+Mimili,1
+Ali-Curung,1
+Krefeld,1
+Baidoa,1
+Ampilatwatja,1
+Petermann,1
+Harts Range,1
+Elliott,1
+Papunya,1
+Fregon,1
+Mt Liebig,1
+Baltrum,1
+Skagit,1
+Goondiwindi,1
+Lognes,1
+Evergreen,1
+Danielson,1
+Docker River,1
+Clearfield,1
+Rensselaer,1
+Ti Tree,1
+Sabetta,1
+Svenborg,1
+Eger,1
+Simberi Island,1
+Kintore,1
+Statesboro,1
+Utopia,1
+Nyirripi,1
+Amata,1
+Franz Josef,1
+Erldunda,1
+Foz do Iguassu,1
+Finke,1
+Jaguaruna,1
+Angatja Homeland,1
+Ihtiman,1
+Vogtareuth,1
+New Smyrna Beach,1
+Las vegas,1
+Delta Camp,1
+Hwange,1
+Shushenskoye,1
+Stockerau,1
+Klaipeda,1
+MINERAL POINT,1
+WEST BEND,1
+GAYLORD,1
+ANDERSON,1
+Novi Sad,1
+Grundarfjordur,1
+Prairie du Chien,1
+Kobok,1
+Torshavn,1
+Otjiwarongo,1
+Mona,1
+Rerik,1
+Cruz,1
+Albemarle,1
+Davis,1
+Mocksville,1
+Socorro,1
+Martinsville,1
+Mount Airy,1
+Taos,1
+Raton,1
+Pampa,1
+Sand Springs,1
+Flippin,1
+Borger,1
+Budaoers,1
+Jakabszallas,1
+Longwood,1
+Sankt-Augustin,1
+Santa Ynez,1
+Haixi,1
+Qionghai,1
+Northeim,1
+Reggio Emilia,1
+Bowen,1
+Wulanchabu,1
+Odienne,1
+Siguiri,1
+Nzerekore,1
+Brockman,1
+Shaoyang,1
+Teixeira de Freitas,1
+Spartangurg,1
+Bajawa,1
+San Antonio de Pale,1
+Oyo,1
+Parsons,1
+Waycross,1
+Diass,1
+Coonawarra,1
+Naracoorte,1
+Camilla,1
+Clarenville,1
+Ponta Grossa,1
+Palenque,1
+Caloundra,1
+Clarks Point,1
+Williston Lake,1
+Doris Lake,1
+Tola,1
+Montecristi,1
+San Miguel,1
+Sandpoint,1
+Attu,1
+Kangaatsiaq,1
+Kitsissuarsuit,1
+Niaqornaarsuk,1
+Ilimanaq,1
+Qeqertaq,1
+Saqqaq,1
+Savissivik,1
+Siorapaluk,1
+Portage-la-prairie,1
+Innaarsuit,1
+Kangersuatsiaq,1
+Kullorsuaq,1
+Nuussuaq,1
+Pitt Meadows,1
+Upernavik Kujalleq,1
+Narsaq Kujalleq,1
+Ikamiut,1
+Ammassivik,1
+Eqalugaarsuit,1
+Qassimiut,1
+Tiniteqilaaq,1
+Isortoq,1
+Kuummiit,1
+Sermiligaaq,1
+Ikerasaarsuk,1
+Illorsuit,1
+Nuugaatsiaq,1
+Saattut,1
+Ikerasak,1
+Niaqornat,1
+Ukkusissat,1
+Agua Boa,1
+Novo Progresso,1
+Sorriso,1
+Sao Raimundo Nonato,1
+Encarnacion,1
+Poeketi,1
+Pikienkondre of Miranda,1
+Anholt,1
+Saint Pierre d'Oleron,1
+Semur en Auxois,1
+Pyramiden,1
+Zermatt,1
+Nikolskoye,1
+Tilichiki,1
+Nyurba,1
+Batagay-Alyta,1
+Ust-Kuyga,1
+Verkhnevilyuysk,1
+Shakhtyorsk,1
+Talakan,1
+Mama,1
+Edmundston,1
+Red Dog,1
+Impfondo,1
+El Bayadh,1
+Zintan,1
+Monkey Bay,1
+Suwalki,1
+Bauchi,1
+Dutse,1
+Jalingo,1
+Kolda,1
+Kilwa Masoko,1
+Moshi,1
+Mansa,1
+Ghazni,1
+Longnan,1
+Songyuan,1
+Jiansanjiang,1
+Libo,1
+Chengde,1
+Wudalianchi,1
+Holingol,1
+Yarkant,1
+Cangyuan,1
+Lancang Lahu,1
+Pimenta Bueno,1
+ARIQUEMES,1
+COLNIZA,1
+Xinzhou,1
+Zhalantun,1
+ALTA FLORESTA D'OESTE,1
+APUI,1
+SANTO ANTONIO DO MATUPI,1
+CONSELVAN,1
+Adampur,1
+Shirdi,1
+Jeypore,1
+Sumenep,1
+Sipora,1
+Pasir Pangaraian,1
+Tanjung Balai Karimun,1
+Buru Island,1
+Namlea,1
+Dobo,1
+Sanana,1
+Bunyu,1
+Buol,1
+Jask,1
+Cheboygan,1
+Kozushima,1
+Kazarman,1
+Sainyabuli,1
+Baglung,1
+Rajbiraj,1
+Palanan,1
+Itbayat,1
+Catbalogan City,1
+Maasin,1
+Bantayan,1
+Biliran,1
+PRIMAVERA D'OESTE,1
+PRIMAVERA DO LESTE,1
+Croker Island,1
+The Granites,1
+Barimunya,1
+Laucala,1
+Yasawa Island,1
+North Shore,1
+Okiwi,1
+Waiheke Island,1
+Karamea,1
+Jastarnia,1
+Noonkanbah,1
+Faaite,1
+Nukutavake,1
+Vahitahi,1
+Hikueru,1
+Raroia,1
+Kauehi,1
+Tatakoto,1
+Boven Digoel,1
+Jundiai,1
+Berkeley Springs,1
+Brits,1
+West Melton,1
+Rangiora,1
+JARU,1
+Kannur,1
+Godthaab,1
+Uzyn,1
+COTRIGUACU,1
+Kasese,1
+Bay St. Louis,1
+Seldovia,1
+Engeløy,1
+Dwangwa,1
+Higleig,1
+Oceanside,1
+Castelo Branco,1
+Ponte de Sôr,1
+Maia,1
+Kenebetsu,1
+Ajmer,1
+Madang,1

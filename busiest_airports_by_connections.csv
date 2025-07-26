@@ -1,0 +1,11 @@
+airport_code,connection_count,iata,name,country
+ATL,1826.0,ATL,Hartsfield Jackson Atlanta International Airport,United States
+ORD,1108.0,ORD,Chicago O'Hare International Airport,United States
+PEK,1069.0,PEK,Beijing Capital International Airport,China
+LHR,1051.0,LHR,London Heathrow Airport,United Kingdom
+CDG,1041.0,CDG,Charles de Gaulle International Airport,France
+LAX,990.0,LAX,Los Angeles International Airport,United States
+FRA,990.0,FRA,Frankfurt am Main Airport,Germany
+DFW,936.0,DFW,Dallas Fort Worth International Airport,United States
+JFK,911.0,JFK,John F Kennedy International Airport,United States
+AMS,903.0,AMS,Amsterdam Airport Schiphol,Netherlands
